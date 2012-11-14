@@ -1,0 +1,193 @@
+@import "compass";
+@import "compass/layout/grid-background";
+@import "susy";
+@import "compass/reset";
+@import "compass/typography";
+@import 'modular-scale';
+
+@import url(http://fonts.googleapis.com/css?family=Lora);
+@include establish-baseline($base-font-size);
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  word-wrap: break-word;
+  -webkit-nbsp-mode: space;
+  -webkit-line-break: after-white-space;
+}
+
+body {
+  @include debug-vertical-alignment;
+  font-family: 'Lora', serif;
+  color: #333;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+}
+
+h1 {
+  @include leader;
+  @include adjust-font-size-to(32px, 2);
+}
+
+h2 {
+  @include adjust-font-size-to(24px, 2);
+}
+h3 {
+  @include adjust-font-size-to($base-font-size, 1);
+}
+h4 {
+  @include adjust-font-size-to(12px, 1);
+}
+
+p {
+  @include leader;
+  @include trailer;
+}
+
+html.js,
+html.iem7,
+html.ie6,
+html.ie7,
+html.ie8 {
+  img,
+  object {
+    max-width: 100%;
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    position: relative;
+  }
+}
+
+.centered { margin: 0 auto; }
+
+.hidden { display:none; }
+
+b { font-weight:bold; }
+
+strong { font-weight:bold; }
+
+
+// Settings
+
+$total-columns  : 4;
+$column-width   : 5em;
+$gutter-width   : 2em;
+$grid-padding   : $gutter-width;
+
+
+// Responsive columns setup
+
+// Landscape phone to portrait tablet
+$tablet_portrait: 6;
+
+// Portrait tablet to landscape and desktop
+$tablet_landscape: 8;
+
+// Large desktop
+$desktop: 12;
+
+
+// Container
+
+.page {
+  @include container($total-columns, $tablet_portrait, $tablet_landscape, $desktop);
+  // @include column-grid-background($total-columns, $column-width, $gutter-width, $grid-padding, #eee, #fff, "true");
+}
+
+.summary { display: none;}
+
+// Layout
+
+.top-nav-wrapper {
+  background: #53442e;
+  ul {
+    @include horizontal-list();
+    @include prefix(2, $tablet_portrait);
+    @include adjust-font-size-to(12px, 2);
+    a {
+      @include hover-link();
+      color: #fff;
+    }
+  }
+}
+
+
+
+@include at-breakpoint($tablet_portrait) {
+  .page {
+    // @include column-grid-background($tablet_portrait, $column-width, $gutter-width, $grid-padding, #eee, #fff, "true");
+  }
+  .pagenav {
+    // @include leader(2);
+    @include span-columns(2,$tablet_portrait);
+    ul {
+      @include leader;
+    }
+  }
+  .main {
+    $main-columns: 4;
+    @include span-columns($main-columns omega, $tablet_portrait);
+    .content { @include span-columns(4, $main-columns); }
+  }
+}
+
+@include at-breakpoint($tablet_landscape) {
+  .page {
+    // @include column-grid-background($tablet_landscape, $column-width, $gutter-width, $grid-padding, #eee, #fff, "true");
+  }
+
+  h1 {
+    @include adjust-font-size-to(24px, 2);
+  }
+
+  .pagenav { @include span-columns(2, $tablet_landscape); }
+  .main {
+    $main-columns: 6;
+    @include span-columns($main-columns omega, $tablet_landscape);
+    .content { @include span-columns(4, $main-columns); }
+    .summary {
+      display: block;
+      @include span-columns(2 omega, $main-columns);
+    }
+  }
+}
+
+@include at-breakpoint($desktop) {
+  .page {
+    //@include column-grid-background($desktop, $column-width, $gutter-width, $grid-padding, #eee, #fff, "true");
+  }
+
+  h1 {
+    @include adjust-font-size-to($base-font-size * 2, 2);
+  }
+
+  .pagenav { @include span-columns(2,$desktop); }
+  .main {
+    $main-columns: 10;
+    @include span-columns($main-columns omega, $desktop);
+    .content { @include span-columns(7,$main-columns); }
+    .summary {
+      @include span-columns(3 omega, $main-columns);
+    }
+  }
+}
+
+.contentinfo {
+  clear: both;
+  margin: 0 0 - $grid-padding;
+  padding: 0 $grid-padding;
+  @include at-breakpoint($desktop) {
+    margin: 0;
+    @include pad(2,3,$desktop);
+  }
+}
+
+.summary {
+  @include opacity(0.7);
+  p {
+    @include adjust-font-size-to(12px, 1);
+  }
+}

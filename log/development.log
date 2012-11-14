@@ -1,0 +1,1348 @@
+Connecting to database specified by database.yml
+  [1m[36m (13.8ms)[0m  [1mCREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL) ENGINE=InnoDB[0m
+  [1m[35m (21.6ms)[0m  CREATE UNIQUE INDEX `unique_schema_migrations` ON `schema_migrations` (`version`)
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+  [1m[35m (0.4ms)[0m  DROP DATABASE IF EXISTS `traduction-litteraire_test`
+  [1m[36m (0.3ms)[0m  [1mCREATE DATABASE `traduction-litteraire_test` DEFAULT CHARACTER SET `utf8` COLLATE `utf8_unicode_ci`[0m
+  [1m[35m (9.1ms)[0m  CREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL) ENGINE=InnoDB
+  [1m[36m (17.6ms)[0m  [1mCREATE UNIQUE INDEX `unique_schema_migrations` ON `schema_migrations` (`version`)[0m
+  [1m[35m (0.1ms)[0m  SELECT version FROM `schema_migrations`
+  [1m[36m (1.1ms)[0m  [1mINSERT INTO `schema_migrations` (version) VALUES ('0')[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:41:37 +0100
+Connecting to database specified by database.yml
+
+ActionController::RoutingError (No route matches [GET] "/"):
+  actionpack (3.2.8) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.8) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.8) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.1) lib/quiet_assets.rb:20:in `call_with_quiet_assets'
+  actionpack (3.2.8) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.8) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.8) lib/rails/engine.rb:479:in `call'
+  railties (3.2.8) lib/rails/application.rb:223:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.8) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:42:25 +0100
+
+ActionController::RoutingError (No route matches [GET] "/"):
+  actionpack (3.2.8) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.8) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.8) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.1) lib/quiet_assets.rb:20:in `call_with_quiet_assets'
+  actionpack (3.2.8) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.8) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.8) lib/rails/engine.rb:479:in `call'
+  railties (3.2.8) lib/rails/application.rb:223:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.8) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:42:38 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+Compiled application.css  (21ms)  (pid 71153)
+Compiled jquery.js  (37ms)  (pid 71153)
+Compiled jquery_ujs.js  (0ms)  (pid 71153)
+Compiled application.js  (72ms)  (pid 71153)
+  Rendered layouts/_navigation.html.haml (1.3ms)
+  Rendered layouts/_messages.html.haml (1.4ms)
+Completed 200 OK in 190ms (Views: 189.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:42:42 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.haml (0.6ms)
+  Rendered layouts/_messages.html.haml (0.1ms)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:43:26 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.haml (0.4ms)
+  Rendered layouts/_messages.html.haml (0.1ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:43:32 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 3ms
+
+ActionView::Template::Error (Illegal nesting: content can't be both given on the same line as %div and nested within it.):
+    29: // Container
+    30: 
+    31: .page {
+    32:   @include container($total-columns, $tablet_portrait, $tablet_landscape, $desktop);
+    33:   @include column-grid-background($total-columns, $column-width, $gutter-width, $grid-padding, #eee, #fff, "true");
+    34: }
+    35: 
+  app/views/pages/home.html.haml:32
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:44:07 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (17.4ms)
+Completed 500 Internal Server Error in 2064ms
+
+ActionView::Template::Error (File to import not found or unreadable: typography.
+Load paths:
+  Sass::Rails::Importer(/Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+  /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets
+  /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@traduction-litteraire/gems/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@traduction-litteraire/gems/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@traduction-litteraire/gems/susy-1.0.4/sass
+  Compass::SpriteImporter
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)):
+    4:     %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
+    5:       %title= content_for?(:title) ? yield(:title) : "Traduction Litteraire"
+    6:       %meta{:content => content_for?(:description) ? yield(:description) : "Traduction Litteraire", :name => "description"}
+    7:         = stylesheet_link_tag "application", :media => "all"
+    8:         = javascript_include_tag "application"
+    9:         = csrf_meta_tags
+    10:         = yield(:head)
+  app/assets/stylesheets/application.css.scss:4
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml__3557906313537069229_70183222014680'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.1ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:44:21 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.9ms)
+Compiled application.css  (1118ms)  (pid 71153)
+  Rendered layouts/_navigation.html.haml (0.7ms)
+  Rendered layouts/_messages.html.haml (0.1ms)
+Completed 200 OK in 1137ms (Views: 1136.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:44:56 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.2ms)
+  Rendered layouts/_navigation.html.haml (0.5ms)
+  Rendered layouts/_messages.html.haml (0.1ms)
+Completed 200 OK in 10ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:46:29 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.6ms)
+  Rendered layouts/_navigation.html.haml (0.7ms)
+  Rendered layouts/_messages.html.haml (0.1ms)
+Completed 200 OK in 15ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:46:36 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.8ms)
+  Rendered layouts/_navigation.html.haml (0.4ms)
+  Rendered layouts/_messages.html.haml (0.1ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:46:44 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 13ms (Views: 12.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 13:48:49 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.5ms)
+Completed 200 OK in 13ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...ass/typography"": expected selector or at-rule, was "$grid-backgroun..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...ass/typography"": expected selector or at-rule, was "$grid-backgroun..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Properties are only allowed within rules, directives, mixin includes, or other properties.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Properties are only allowed within rules, directives, mixin includes, or other properties.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...st-font-size-to": expected "{", was "(21px, 2, 16px);"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...st-font-size-to": expected "{", was "(21px, 2, 16px);"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined operation: "1em times modular-scale(7, 16px, golden())".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined operation: "1em times modular-scale(7, 16px, golden())".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:10:36 +0100
+Connecting to database specified by database.yml
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (16.7ms)
+Completed 500 Internal Server Error in 1192ms
+
+ActionView::Template::Error (Undefined operation: "1em times modular-scale(7, 16px, golden())".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)):
+    4:     %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
+    5:       %title= content_for?(:title) ? yield(:title) : "Traduction Litteraire"
+    6:       %meta{:content => content_for?(:description) ? yield(:description) : "Traduction Litteraire", :name => "description"}
+    7:         = stylesheet_link_tag "application", :media => "all"
+    8:         = javascript_include_tag "application"
+    9:         = csrf_meta_tags
+    10:         = yield(:head)
+  app/assets/stylesheets/application.css.scss:13
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml__2912314613240789298_70179531394960'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:11:26 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 1219ms
+
+ActionView::Template::Error (Undefined operation: "1em times modular-scale(7, 16px, golden()) px".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)):
+    4:     %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
+    5:       %title= content_for?(:title) ? yield(:title) : "Traduction Litteraire"
+    6:       %meta{:content => content_for?(:description) ? yield(:description) : "Traduction Litteraire", :name => "description"}
+    7:         = stylesheet_link_tag "application", :media => "all"
+    8:         = javascript_include_tag "application"
+    9:         = csrf_meta_tags
+    10:         = yield(:head)
+  app/assets/stylesheets/application.css.scss:13
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml__2912314613240789298_70179531394960'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:12:06 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.8ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Compiled application.css  (1443ms)  (pid 71561)
+Completed 200 OK in 1476ms (Views: 1475.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:15:40 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 14ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:19:53 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.0ms)
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "  margin-bottom: ": expected expression (e.g. 1px, bold), was ";"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "  margin-bottom: ": expected expression (e.g. 1px, bold), was ";"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:27:35 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.6ms)
+Completed 200 OK in 14ms (Views: 13.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:27:37 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (3.4ms)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:27:51 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.5ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...$base-font-size": expected ")", was ";);"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 3.9375em*em isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 63em*px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:33:10 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.6ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Completed 500 Internal Server Error in 1173ms
+
+ActionView::Template::Error (63em*px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)):
+    4:     %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
+    5:       %title= content_for?(:title) ? yield(:title) : "Traduction Litteraire"
+    6:       %meta{:content => content_for?(:description) ? yield(:description) : "Traduction Litteraire", :name => "description"}
+    7:         = stylesheet_link_tag "application", :media => "all"
+    8:         = javascript_include_tag "application"
+    9:         = csrf_meta_tags
+    10:         = yield(:head)
+  app/assets/stylesheets/application.css.scss:18
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml__2912314613240789298_70179531394960'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.6ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:34:29 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.9ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Completed 500 Internal Server Error in 1300ms
+
+ActionView::Template::Error (2.25em*em isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)):
+    4:     %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
+    5:       %title= content_for?(:title) ? yield(:title) : "Traduction Litteraire"
+    6:       %meta{:content => content_for?(:description) ? yield(:description) : "Traduction Litteraire", :name => "description"}
+    7:         = stylesheet_link_tag "application", :media => "all"
+    8:         = javascript_include_tag "application"
+    9:         = csrf_meta_tags
+    10:         = yield(:head)
+  app/assets/stylesheets/application.css.scss:18
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml__2912314613240789298_70179531394960'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:34:57 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.6ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Compiled application.css  (1287ms)  (pid 71561)
+Completed 200 OK in 1322ms (Views: 1322.0ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: 2.25em*em isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 2.25em*em isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:36:49 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 12ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:36:55 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (3.3ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Compiled application.css  (1618ms)  (pid 71561)
+Completed 200 OK in 1635ms (Views: 1635.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:37:50 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (24.3ms)
+Completed 200 OK in 36ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "  base-font-size": expected "{", was "}"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "  base-font-size": expected "{", was "}"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...base-font-size)": expected "}", was "@include margin..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...base-font-size)": expected "}", was "@include margin..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...base-font-size)": expected "}", was "@include margin..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...base-font-size)": expected "}", was "@include margin..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:39:36 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.5ms)
+Completed 500 Internal Server Error in 18ms
+
+ActionView::Template::Error (Invalid CSS after "...base-font-size)": expected "}", was "@include margin..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)):
+    4:     %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
+    5:       %title= content_for?(:title) ? yield(:title) : "Traduction Litteraire"
+    6:       %meta{:content => content_for?(:description) ? yield(:description) : "Traduction Litteraire", :name => "description"}
+    7:         = stylesheet_link_tag "application", :media => "all"
+    8:         = javascript_include_tag "application"
+    9:         = csrf_meta_tags
+    10:         = yield(:head)
+  app/assets/stylesheets/application.css.scss:32
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml__2912314613240789298_70179531394960'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (37.3ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (47.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:40:05 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.7ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Compiled application.css  (1250ms)  (pid 71561)
+Completed 200 OK in 1265ms (Views: 1264.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:46:54 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.7ms)
+Completed 200 OK in 22ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:47:03 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.4ms)
+Completed 200 OK in 8ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:50:04 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.5ms)
+Completed 200 OK in 15ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:50:11 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.5ms)
+Completed 200 OK in 8ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 14:51:33 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.3ms)
+Completed 200 OK in 18ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...tical-alignment": expected "{", was ";"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "  $h1_fs: ": expected expression (e.g. 1px, bold), was ";"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "  $h1_fs: ": expected expression (e.g. 1px, bold), was ";"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 15:00:33 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.5ms)
+Completed 200 OK in 12ms (Views: 11.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 15:00:51 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.5ms)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 15:01:05 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.7ms)
+Completed 200 OK in 9ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::UnitConversionError: Incompatible units: 'px' and 'em'.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::UnitConversionError: Incompatible units: 'px' and 'em'.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 1/px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 1/px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 15:08:43 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.5ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "-": expected number or function, was "  h2 { font-siz..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "-": expected number or function, was "  h2 { font-siz..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$textDirection".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$textDirection".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$bodyFontFamily".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$bodyFontFamily".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$headerFontColor".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$headerFontColor".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$headerFontColor".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$headerFontColor".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$defaultFloat".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$defaultFloat".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$defaultFloat".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$defaultFloat".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$headerFontColor".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$headerFontColor".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined mixin 'full'.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined mixin 'full'.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 15:34:59 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.6ms)
+Completed 200 OK in 17ms (Views: 16.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 15:41:55 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (26.7ms)
+Completed 200 OK in 40ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 15:45:51 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (20.5ms)
+Completed 200 OK in 33ms (Views: 32.5ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: 9em*em*px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 9em*px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 64em*px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 64em*px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 64em*px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 32em*px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: 288em*px*px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 16:01:52 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (24.1ms)
+Completed 200 OK in 38ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 16:02:45 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (20.5ms)
+Completed 200 OK in 31ms (Views: 30.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 16:05:16 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (29.0ms)
+Completed 200 OK in 42ms (Views: 41.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 16:05:26 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (22.6ms)
+Completed 200 OK in 27ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "... $main-columns)": expected "}", was "@include prefix..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "... $main-columns)": expected "}", was "@include prefix..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 16:10:38 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.8ms)
+Completed 200 OK in 14ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 16:10:40 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (3.1ms)
+Completed 200 OK in 9ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 16:10:55 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.0ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Compiled application.css  (1831ms)  (pid 71561)
+Completed 200 OK in 1852ms (Views: 1851.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 16:12:21 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.5ms)
+Completed 200 OK in 15ms (Views: 14.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 16:13:45 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (2.9ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 16:17:02 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (22.6ms)
+Completed 200 OK in 36ms (Views: 35.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 17:43:02 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (647.3ms)
+Completed 200 OK in 781ms (Views: 757.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 17:45:35 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (51.8ms)
+Completed 200 OK in 66ms (Views: 65.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 17:56:59 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (32.6ms)
+Completed 200 OK in 45ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:00:06 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.0ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:07:31 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.2ms)
+Compiled plugins/jquery.baseline.js  (0ms)  (pid 71561)
+Compiled application.js  (14ms)  (pid 71561)
+Completed 200 OK in 139ms (Views: 138.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:08:14 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (0.6ms)
+Compiled plugins/jquery.baseline.js  (0ms)  (pid 71561)
+Compiled application.js  (3ms)  (pid 71561)
+Completed 200 OK in 24ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:08:50 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (0.9ms)
+Compiled application.js  (4ms)  (pid 71561)
+Completed 200 OK in 62ms (Views: 61.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:09:02 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (0.6ms)
+Compiled application.js  (4ms)  (pid 71561)
+Completed 200 OK in 52ms (Views: 51.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:09:18 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.1ms)
+Compiled application.js  (3ms)  (pid 71561)
+Completed 200 OK in 25ms (Views: 24.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:09:41 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (7.8ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:09:55 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+ERROR: compiling _app_views_pages_home_html_haml___1219535535749834806_70179536594520 RAISED /Users/borisrorsvort/Sites/traduction-litteraire/app/views/pages/home.html.haml:3: syntax error, unexpected ',', expecting ')'
+...mage_tag("logo/cetl-logo.png"), class: "logo"
+...                               ^
+Function body:           def _app_views_pages_home_html_haml___1219535535749834806_70179536594520(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "pages/home";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>false, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;;_hamlout.push_text("<section class='page'>\n  <nav class='pagenav'>\n    #{_hamlout.adjust_tabs(2); 
+
+_hamlout.format_script_false_false_false_true_false_true_false(( image_tag("logo/cetl-logo.png"), class: "logo"
+));}\n    <ul>\n      <li>\n        <a#{_hamlout.adjust_tabs(2); 
+
+_hamlout.attributes({}, nil, :href => "#demo-settings")}>Basic Settings</a>\n      </li>\n      <li>\n        <a#{
+
+_hamlout.attributes({}, nil, :href => "#demo-mobile")}>Mobile Layout</a>\n      </li>\n      <li>\n        <a#{
+
+_hamlout.attributes({}, nil, :href => "#demo-breakpoints")}>Breakpoints</a>\n      </li>\n      <li>\n        <a#{
+
+_hamlout.attributes({}, nil, :href => "#demo-screen")}>Large-Screens</a>\n      </li>\n      <li>\n        <a#{
+
+_hamlout.attributes({}, nil, :href => "#demo-complete")}>Complete Layout</a>\n      </li>\n    </ul>\n  </nav>\n  <article class='main' role='main'>\n    <header class='banner' role='banner'>\n      <h1>Centre Européen de Traduction Littéraire</h1>\n    </header>\n    <aside class='summary'>\n      <p>\n        #{
+
+
+
+
+
+
+
+_hamlout.format_script_false_false_false_true_false_true_false(( image_tag("http://www.traduction-litteraire.com/wp-content/themes/CETL/scripts/timthumb.php?src=//wp-content/uploads/2009/10/St_Jerome_in_his_Study_Albrecht_Durer_1514.jpg&w=250&h=320&zc=1")
+));}\n      </p>\n    </aside>\n    <div class='content'>\n      <p>Avec le soutien de la Communauté française de Belgique, de la Commission communautaire française. Sous l’égide et dans les locaux de l’Institut Supérieur de Traducteurs et Interprètes de la Communauté française.</p>\n      <p>\n        Cycle postuniversitaire de formation en traduction littéraire.\n        <br>\n        Séminaires et ateliers animés par les plus grands praticiens. Cours à horaire décalé.\n      </p>\n      <h2>Formule unique pour les amateurs de traduction littéraire</h2>\n      <p>\n        Le CETL est d’abord un centre de formation postuniversitaire axé sur la pratique de la traduction littéraire. Les points forts du cycle sont les séminaires et les ateliers, animés par les plus grands traducteurs littéraires actuels. Quelques cours d’encadrement plus théoriques et des ateliers de stimulation à l’écriture en langue française viennent compléter la formation.\n      </p>\n      <p>\n        C’est ensuite une plaque tournante d’échanges avec le monde professionnel de la traduction littéraire et de l’édition. Des lecteurs de maisons d’édition font partie du jury d’examen final qui sanctionne le mémoire (une traduction originale). Le CETL est un vivier dans lequel éditeurs et instances culturelles diverses peuvent puiser des talents développés et affinés par les professionnels de l’écriture.\n      </p>\n      <h2>Informations</h2>\n      <h3>Calendrier:</h3>\n      <p>Le cycle de formation à la traduction littéraire s’étend sur deux années, chaque fois de janvier à décembre. Les ateliers et les cours se déroulent le week-end, à raison de deux ou trois fois par mois. Tous les congés scolaires sont respectés.</p>\n      <h3>Lieu :</h3>\n      <p>\n        Institut Supérieur de Traducteurs et Interprètes de la Communauté française de Belgique (ISTI), 34 rue Joseph Hazard – 1180 Bruxelles (Uccle)\n        <br>\n        <strong>\n          Pour toute information complémentaire,\n          <a href='http://www.traduction-litteraire.com/contact' target='_self' title='Contactez-nous'>contactez-nous</a>\n        </strong>\n      </p>\n    </div>\n  </article>\n</section>\n", -4, false);::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper if @haml_buffer;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/template.rb:297:in `module_eval'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/template.rb:297:in `compile'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/template.rb:232:in `compile!'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/template.rb:144:in `block in render'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/notifications.rb:125:in `instrument'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/template.rb:143:in `render'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/notifications.rb:123:in `instrument'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/abstract_controller/rendering.rb:88:in `render'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/rendering.rb:16:in `render'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activerecord-3.2.8/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@traduction-litteraire/gems/high_voltage-1.2.1/app/controllers/high_voltage/pages_controller.rb:14:in `show'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/abstract_controller/base.rb:167:in `process_action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/callbacks.rb:414:in `_run__4063115536254947901__process_action__3392369965088619686__callbacks'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/callbacks.rb:405:in `__run_callback'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/notifications.rb:123:in `instrument'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activerecord-3.2.8/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/abstract_controller/base.rb:121:in `process'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/abstract_controller/rendering.rb:45:in `process'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal.rb:203:in `dispatch'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_controller/metal.rb:246:in `block in action'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/routing/route_set.rb:73:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/journey-1.0.4/lib/journey/router.rb:56:in `each'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/routing/route_set.rb:600:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/rack-1.4.1/lib/rack/etag.rb:23:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/rack-1.4.1/lib/rack/conditionalget.rb:25:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/head.rb:14:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/rack-1.4.1/lib/rack/session/abstract/id.rb:205:in `context'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/rack-1.4.1/lib/rack/session/abstract/id.rb:200:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/cookies.rb:339:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activerecord-3.2.8/lib/active_record/query_cache.rb:64:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activerecord-3.2.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:473:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/callbacks.rb:405:in `_run__714593717064667403__call__3972857424500948578__callbacks'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/callbacks.rb:405:in `__run_callback'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/railties-3.2.8/lib/rails/rack/logger.rb:26:in `call_app'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/railties-3.2.8/lib/rails/rack/logger.rb:16:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@traduction-litteraire/gems/quiet_assets-1.0.1/lib/quiet_assets.rb:20:in `call_with_quiet_assets'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/rack-1.4.1/lib/rack/methodoverride.rb:21:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/rack-1.4.1/lib/rack/runtime.rb:17:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/activesupport-3.2.8/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/rack-1.4.1/lib/rack/lock.rb:15:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/static.rb:62:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/railties-3.2.8/lib/rails/engine.rb:479:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/railties-3.2.8/lib/rails/application.rb:223:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/rack-1.4.1/lib/rack/content_length.rb:14:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/railties-3.2.8/lib/rails/rack/log_tailer.rb:17:in `call'
+/Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/rack-1.4.1/lib/rack/handler/webrick.rb:59:in `service'
+/Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+/Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+/Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+  Rendered pages/home.html.haml within layouts/application (8.7ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (/Users/borisrorsvort/Sites/traduction-litteraire/app/views/pages/home.html.haml:3: syntax error, unexpected ',', expecting ')'
+...mage_tag("logo/cetl-logo.png"), class: "logo"
+...                               ^):
+    1: %section.page
+    2:   %nav.pagenav
+    3:     = image_tag("logo/cetl-logo.png"), class: "logo"
+    4:     %ul
+    5:       %li
+    6:         %a{:href => "#demo-settings"} Basic Settings
+  actionpack (3.2.8) lib/action_view/template.rb:297:in `module_eval'
+  actionpack (3.2.8) lib/action_view/template.rb:297:in `compile'
+  actionpack (3.2.8) lib/action_view/template.rb:244:in `block in compile!'
+  <internal:prelude>:10:in `synchronize'
+  actionpack (3.2.8) lib/action_view/template.rb:232:in `compile!'
+  actionpack (3.2.8) lib/action_view/template.rb:144:in `block in render'
+  activesupport (3.2.8) lib/active_support/notifications.rb:125:in `instrument'
+  actionpack (3.2.8) lib/action_view/template.rb:143:in `render'
+  actionpack (3.2.8) lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+  actionpack (3.2.8) lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+  activesupport (3.2.8) lib/active_support/notifications.rb:123:in `block in instrument'
+  activesupport (3.2.8) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (3.2.8) lib/active_support/notifications.rb:123:in `instrument'
+  actionpack (3.2.8) lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+  actionpack (3.2.8) lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+  actionpack (3.2.8) lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+  actionpack (3.2.8) lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+  actionpack (3.2.8) lib/action_view/renderer/template_renderer.rb:18:in `render'
+  actionpack (3.2.8) lib/action_view/renderer/renderer.rb:36:in `render_template'
+  actionpack (3.2.8) lib/action_view/renderer/renderer.rb:17:in `render'
+  actionpack (3.2.8) lib/abstract_controller/rendering.rb:110:in `_render_template'
+  actionpack (3.2.8) lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  actionpack (3.2.8) lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  actionpack (3.2.8) lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  actionpack (3.2.8) lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  actionpack (3.2.8) lib/abstract_controller/rendering.rb:88:in `render'
+  actionpack (3.2.8) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (3.2.8) lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  activesupport (3.2.8) lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  activesupport (3.2.8) lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  actionpack (3.2.8) lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  actionpack (3.2.8) lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  activerecord (3.2.8) lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+  actionpack (3.2.8) lib/action_controller/metal/instrumentation.rb:39:in `render'
+  high_voltage (1.2.1) app/controllers/high_voltage/pages_controller.rb:14:in `show'
+  actionpack (3.2.8) lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  actionpack (3.2.8) lib/abstract_controller/base.rb:167:in `process_action'
+  actionpack (3.2.8) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (3.2.8) lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  activesupport (3.2.8) lib/active_support/callbacks.rb:414:in `_run__4063115536254947901__process_action__3392369965088619686__callbacks'
+  activesupport (3.2.8) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.8) lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  activesupport (3.2.8) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.8) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (3.2.8) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (3.2.8) lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  activesupport (3.2.8) lib/active_support/notifications.rb:123:in `block in instrument'
+  activesupport (3.2.8) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (3.2.8) lib/active_support/notifications.rb:123:in `instrument'
+  actionpack (3.2.8) lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  actionpack (3.2.8) lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  activerecord (3.2.8) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (3.2.8) lib/abstract_controller/base.rb:121:in `process'
+  actionpack (3.2.8) lib/abstract_controller/rendering.rb:45:in `process'
+  actionpack (3.2.8) lib/action_controller/metal.rb:203:in `dispatch'
+  actionpack (3.2.8) lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  actionpack (3.2.8) lib/action_controller/metal.rb:246:in `block in action'
+  actionpack (3.2.8) lib/action_dispatch/routing/route_set.rb:73:in `call'
+  actionpack (3.2.8) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (3.2.8) lib/action_dispatch/routing/route_set.rb:36:in `call'
+  journey (1.0.4) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.4) lib/journey/router.rb:56:in `each'
+  journey (1.0.4) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.8) lib/action_dispatch/routing/route_set.rb:600:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.1) lib/rack/etag.rb:23:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/cookies.rb:339:in `call'
+  activerecord (3.2.8) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:473:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.8) lib/active_support/callbacks.rb:405:in `_run__714593717064667403__call__3972857424500948578__callbacks'
+  activesupport (3.2.8) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.8) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.8) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.8) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.8) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.8) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.1) lib/quiet_assets.rb:20:in `call_with_quiet_assets'
+  actionpack (3.2.8) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.8) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.8) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.8) lib/rails/engine.rb:479:in `call'
+  railties (3.2.8) lib/rails/application.rb:223:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.8) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/borisrorsvort/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:10:07 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (8.7ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:11:15 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (6.9ms)
+Completed 200 OK in 11ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "  &": expected "{", was "@include debug-..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "  &": expected "{", was "@include debug-..."
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:12:12 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (7.5ms)
+Completed 200 OK in 19ms (Views: 18.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 18:13:18 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (9.8ms)
+Completed 200 OK in 17ms (Views: 16.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:27:49 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 25ms (Views: 24.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:27:54 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.1ms)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:28:24 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:28:48 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (0.8ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Compiled application.css  (1832ms)  (pid 71561)
+Completed 200 OK in 1847ms (Views: 1846.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:35:46 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.0ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:35:56 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:36:10 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (24.2ms)
+Completed 200 OK in 30ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:36:33 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.1ms)
+  Rendered layouts/_navigation.html.haml (1.7ms)
+Completed 200 OK in 49ms (Views: 48.8ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "    background: ": expected expression (e.g. 1px, bold), was "#;"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "    background: ": expected expression (e.g. 1px, bold), was "#;"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "    background: ": expected expression (e.g. 1px, bold), was ";"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "    background: ": expected expression (e.g. 1px, bold), was ";"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:38:49 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.1ms)
+  Rendered layouts/_navigation.html.haml (4.2ms)
+Completed 200 OK in 20ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: An @include loop has been found: at-breakpoint includes itself
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: An @include loop has been found: at-breakpoint includes itself
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...blet_portrait )": expected "}", was "a {"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "...blet_portrait )": expected "}", was "a {"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:41:44 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.1ms)
+Completed 500 Internal Server Error in 24ms
+
+ActionView::Template::Error (Invalid CSS after "...blet_portrait )": expected "}", was "a {"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)):
+    4:     %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
+    5:       %title= content_for?(:title) ? yield(:title) : "Traduction Litteraire"
+    6:       %meta{:content => content_for?(:description) ? yield(:description) : "Traduction Litteraire", :name => "description"}
+    7:         = stylesheet_link_tag "application", :media => "all"
+    8:         = javascript_include_tag "application"
+    9:         = csrf_meta_tags
+    10:         = yield(:head)
+  app/assets/stylesheets/application.css.scss:114
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml__2912314613240789298_70179559535800'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.4ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (18.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:41:54 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.1ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Completed 500 Internal Server Error in 1307ms
+
+ActionView::Template::Error (An @include loop has been found: at-breakpoint includes itself
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)):
+    4:     %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
+    5:       %title= content_for?(:title) ? yield(:title) : "Traduction Litteraire"
+    6:       %meta{:content => content_for?(:description) ? yield(:description) : "Traduction Litteraire", :name => "description"}
+    7:         = stylesheet_link_tag "application", :media => "all"
+    8:         = javascript_include_tag "application"
+    9:         = csrf_meta_tags
+    10:         = yield(:head)
+  app/assets/stylesheets/application.css.scss:110:in `@content'
+  app/assets/stylesheets/application.css.scss:104
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml__2912314613240789298_70179559535800'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:42:36 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (0.7ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Completed 500 Internal Server Error in 1237ms
+
+ActionView::Template::Error (12em*px isn't a valid CSS value.
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)):
+    4:     %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
+    5:       %title= content_for?(:title) ? yield(:title) : "Traduction Litteraire"
+    6:       %meta{:content => content_for?(:description) ? yield(:description) : "Traduction Litteraire", :name => "description"}
+    7:         = stylesheet_link_tag "application", :media => "all"
+    8:         = javascript_include_tag "application"
+    9:         = csrf_meta_tags
+    10:         = yield(:head)
+  app/assets/stylesheets/application.css.scss:109:in `@content'
+  app/assets/stylesheets/application.css.scss:104
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml__2912314613240789298_70179559535800'
+
+
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /Users/borisrorsvort/.rvm/gems/ruby-1.9.3-p125@global/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (46.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:42:45 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.0ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Compiled application.css  (1296ms)  (pid 71561)
+  Rendered layouts/_navigation.html.haml (0.3ms)
+Completed 200 OK in 1312ms (Views: 1311.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:42:57 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.0ms)
+  Rendered layouts/_navigation.html.haml (0.3ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:43:03 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.1ms)
+Warning. Error encountered while saving cache /Users/borisrorsvort/Sites/traduction-litteraire/tmp/cache/sass/abe18e7d102b87d6394ff3266f7ecb68a10a7dc7/_modular-scale.sassc: can't dump anonymous class #<Class:0x007fa7e40751f0>
+Compiled application.css  (1620ms)  (pid 71561)
+  Rendered layouts/_navigation.html.haml (0.3ms)
+Completed 200 OK in 1636ms (Views: 1635.2ms | ActiveRecord: 0.0ms)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$lines".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Undefined variable: "$lines".
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "  padding: 1em ": expected ";", was ");"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+Error compiling asset application.css:
+Sass::SyntaxError: Invalid CSS after "  padding: 1em ": expected ";", was ");"
+  (in /Users/borisrorsvort/Sites/traduction-litteraire/app/assets/stylesheets/application.css.scss)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:48:34 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.3ms)
+  Rendered layouts/_navigation.html.haml (0.5ms)
+Completed 200 OK in 38ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:49:11 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.2ms)
+  Rendered layouts/_navigation.html.haml (0.4ms)
+Completed 200 OK in 18ms (Views: 17.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:49:32 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.1ms)
+  Rendered layouts/_navigation.html.haml (0.3ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:50:24 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 12ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-11 21:50:29 +0100
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.haml within layouts/application (1.1ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)

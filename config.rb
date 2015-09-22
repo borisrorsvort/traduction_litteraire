@@ -77,3 +77,7 @@ configure :build do
   # Exception: svg & png in images folder because they need to be interchangeable by JS
   activate :asset_hash, ignore: [/images\/(.*\.png|.*\.svg)/]
 end
+
+activate :deploy do |deploy|
+  deploy.method = :git
+end

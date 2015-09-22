@@ -12,3 +12,4 @@ gem "middleman-smusher"
 # middleman-optim requires external utilities:
 #   All setup instructions can be found here: https://github.com/toy/image_optim
 gem 'middleman-imageoptim'
+gem 'middleman-deploy'

@@ -19,10 +19,6 @@ activate :livereload
 set :url_root, data.config.site.root_url
 activate :search_engine_sitemap
 
-# User Bower to manage vendor scripts
-activate :bower
-
-
 # --------------------------------------------------------------------------------------------------
 # Paths
 # --------------------------------------------------------------------------------------------------
@@ -31,6 +27,16 @@ set :css_dir,     'stylesheets'
 set :fonts_dir,   'fonts'
 set :images_dir,  'images'
 set :js_dir,      'javascripts'
+
+sass_dir = 'source/stylesheets', 'bower_components'
+
+after_configuration do
+    @bower_config = JSON.parse(IO.read("#{root}/.bowerrc"))
+    sprockets.append_path File.join "#{root}", @bower_config["directory"]
+end
+# User Bower to manage vendor scripts
+activate :bower
+
 
 # Pretty URLs - See https://middlemanapp.com/advanced/pretty_urls/
 activate :directory_indexes

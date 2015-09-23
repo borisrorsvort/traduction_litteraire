@@ -40,30 +40,21 @@ after_configuration do
     @bower_config = JSON.parse(IO.read("#{root}/.bowerrc"))
     sprockets.append_path File.join "#{root}", @bower_config["directory"]
 end
-# User Bower to manage vendor scripts
-activate :bower
 
-
-# Pretty URLs - See https://middlemanapp.com/advanced/pretty_urls/
-activate :directory_indexes
-
-
+activate :bower # User Bower to manage vendor scripts
+activate :directory_indexes # Pretty URLs - See https://middlemanapp.com/advanced/pretty_urls/
+activate :relative_assets
+set :relative_links, true
 # --------------------------------------------------------------------------------------------------
 # Build configuration
 # --------------------------------------------------------------------------------------------------
 
 configure :build do
-  # Exclude any vendor components (bower or custom builds) in the build
+
   ignore 'stylesheets/vendor/*'
   ignore 'javascripts/vendor/*'
-
-  # Minify CSS
   activate :minify_css
-
-  # Minify Javascript
   activate :minify_javascript
-
-  # Minify HTML
   activate :minify_html, {
     remove_quotes: false,
     remove_input_attributes: false
@@ -72,7 +63,6 @@ configure :build do
   # Compress images (default)
   require "middleman-smusher"
   activate :smusher
-
   # Compress ALL images (advanced)
   # Before activating the below, follow setup instructions on https://github.com/toy/image_optim
   # activate :imageoptim do |options|

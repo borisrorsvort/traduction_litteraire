@@ -4,6 +4,8 @@ gem "middleman"
 gem "middleman-bower"
 gem "middleman-livereload"
 gem 'middleman-search_engine_sitemap'
+gem 'middleman-blog'
+gem 'nokogiri'
 gem "turbolinks", require: false
 # Source minification
 gem "middleman-minify-html"

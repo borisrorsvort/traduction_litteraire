@@ -28,6 +28,12 @@ set :fonts_dir,   'fonts'
 set :images_dir,  'images'
 set :js_dir,      'javascripts'
 
+activate :blog do |blog|
+  blog.prefix = 'articles'
+  blog.permalink = '{title}.html'
+  blog.sources   = '{id}-{title}.html'
+end
+
 sass_dir = 'source/stylesheets', 'bower_components'
 
 after_configuration do

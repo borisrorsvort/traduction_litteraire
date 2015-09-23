@@ -1,0 +1,19 @@
+---
+title: Articles
+---
+
+<% if blog.articles %>
+  <%= blog.articles.count%>
+
+  <% blog.articles.reverse.each do |article| %>
+    <article>
+      <h1>
+        <a href="<%= article.url %>"><%= article.title %></a>
+      </h1>
+
+      <%= article.summary %>
+
+      <a href="<%= article.url %>">Read more</a>
+    </article>
+  <% end %>
+<% end %>

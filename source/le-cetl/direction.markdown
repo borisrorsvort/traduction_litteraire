@@ -5,20 +5,14 @@ title: Direction
 ## FRANÇOISE WUILMART
 
 
-_Née le 7 juin 1942, à Frameries (Belgique) _
+_Née le 7 juin 1942, à Frameries (Belgique)_
 
 _Mère de deux enfants (une fille médecin, un fils psychologue)_
 
 
 ## TITRES, FONCTIONS
 
-
-
-
-
-
   * **Licenciée en Philosophie et Lettres** (U.L.B., section philologie germanique)
-
 
   * Détentrice de la _**Notoriété scientifique et professionnelle (équivalence belge du doctorat)**_ pour ses traductions de Ernst Bloch et la diffusion écrite et orale de la pensée du philosophe allemand dans la francophonie.
 
@@ -52,18 +46,12 @@ _Mère de deux enfants (une fille médecin, un fils psychologue)_
 
   * **Membre du PEN-Club** de Belgique
 
-
-
-
 ## PUBLICATIONS
-
-
-
 
 ### Une trentaine d’articles et d’essais sur la traduction littéraire et la pédagogie de la traduction, publiés dans les revues :
 
 
-___Babel, Équivalences, Translittérature, META, Palimpsestes, Rilune, Les Cahiers de la Sorbonne_, etc. et dans les actes de colloques.
+_Babel, Équivalences, Translittérature, META, Palimpsestes, Rilune, Les Cahiers de la Sorbonne_, etc. et dans les actes de colloques.
 
 Une vingtaine d’articles ont été traduits et publiés dans plusieurs langues étrangères (allemand, anglais, bulgare, estonien, hongrois, letton, lituanien, néerlandais, roumain, russe, slovaque, ukrainien…)
 

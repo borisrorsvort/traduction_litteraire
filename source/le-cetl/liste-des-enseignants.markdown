@@ -13,54 +13,51 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 ### 1. NÉERLANDAIS
 
 
-Bertrand **Abraham **– Anne-Marie **de Both-Diez** – Mireille **Cohendy** – Anita **Concas** – Jacques **De Decker** – Frans **De Haes **– Anne-Marie **Eskenazy** – Charles **Franken** – Patrick **Grilli** – Xavier **Hanotte** – Marie **Hooghe** – José **Lodewick** – Danièle **Losman** – Denise-Monique **Nagielkopf** – Philippe **Noble** – Isabelle **Rosselin** – Emmanuelle **Sandron** – Nadine **Stabile** – Alain **van Crugten**
+– Bertrand **Abraham** – Anne-Marie **de Both-Diez** – Mireille **Cohendy** – Anita **Concas** – Jacques **De Decker** – Frans **De Haes** – Anne-Marie **Eskenazy** – Charles **Franken** – Patrick **Grilli** – Xavier **Hanotte** – Marie **Hooghe** – José **Lodewick** – Danièle **Losman** – Denise-Monique **Nagielkopf** – Philippe **Noble** – Isabelle **Rosselin** – Emmanuelle **Sandron** – Nadine **Stabile** – Alain **van Crugten**
 
 
 ### 2. ANGLAIS
 
 
-France **Camus Pichon** – Jacqueline **Carnaud** – Antoine **Cazé** – **Claro** – Yves **Coleman** – Anne **Damour **– Cécile **Déniard** – Jean–Michel **Déprats** – William **Desmond** – Françoise **du Sorbier** – Isabelle **Famchon** – Pierre **Furlan** **– **Bruno** Gaurier** – Anna **Gibson** – Jean **Guiloineau** – Bernard **Hoepffner** – Mathieu **Jacquet** – Laurence **Kiefé** – Jacqueline **Lahana** – Guy **Leclercq** – Daniel **Lemoine** – Séverine **Magoi** – Jacques **Mailhos**– Claire **Malroux** – Frédéric **Monneyron** – Christine **Pagnoulle** – Marie-Claire **Pasquier** – Robert **Pepin** – Marie-Odile **Probst **– Anne **Proenza** – Christine **Raguet **– Jean-Pierre **Richard** – Anne-Marie **Smith di Biasio** – Dominique **Taffin Jouhaud** – Rose-Marie **Vassallo**
+– France **Camus Pichon** – Jacqueline **Carnaud** – Antoine **Cazé** – **Claro** – Yves **Coleman** – Anne **Damour** – Cécile **Déniard** – Jean–Michel **Déprats** – William **Desmond** – Françoise **du Sorbier** – Isabelle **Famchon** – Pierre **Furlan** – Bruno **Gaurier** – Anna **Gibson** – Jean **Guiloineau** – Bernard **Hoepffner** – Mathieu **Jacquet** – Laurence **Kiefé** – Jacqueline **Lahana** – Guy **Leclercq** – Daniel **Lemoine** – Séverine **Magoi** – Jacques **Mailhos**– Claire **Malroux** – Frédéric **Monneyron** – Christine **Pagnoulle** – Marie-Claire **Pasquier** – Robert **Pepin** – Marie-Odile **Probst** – Anne **Proenza** – Christine **Raguet** – Jean-Pierre **Richard** – Anne-Marie **Smith di Biasio** – Dominique **Taffin Jouhaud** – Rose-Marie **Vassallo**
 
 
 ### 3. ALLEMAND
 
 
-Marie-Claude **Auger** – Bernard **Banoun **– Jean-Louis **Besson** – Marc **Buhot de Launay** – Jean-Claude **Colbus** – Claire **de Oliveira** – Pierre **Deshusses** – Barbara **Fontaine** – Rose-Marie **François** – Georges Arthur **Goldschmidt** – Brigitte **Hébert** – Dieter **Hornig** – Philippe **Ivernel** – Jean-René **Ladmiral** – Olivier **Mannoni** – Jean-Yves **Masson** – François **Mathieu** – Josie **Mély** – Denis **Messier** – Fabienne **Morias** – Laurent **Muhleisen** – Sibylle **Muller** – Heinz **Schwarzinger** – Dominique **Tassel** – Nicole **Taubes** – Maurice **Taszman** – Brigitte **Vergne-Cain – **Catherine **Weinzorn** – Françoise **Wuilmart**
+– Marie-Claude **Auger** – Bernard **Banoun** – Jean-Louis **Besson** – Marc **Buhot de Launay** – Jean-Claude **Colbus** – Claire **de Oliveira** – Pierre **Deshusses** – Barbara **Fontaine** – Rose-Marie **François** – Georges Arthur **Goldschmidt** – Brigitte **Hébert** – Dieter **Hornig** – Philippe **Ivernel** – Jean-René **Ladmiral** – Olivier **Mannoni** – Jean-Yves **Masson** – François **Mathieu** – Josie **Mély** – Denis **Messier** – Fabienne **Morias** – Laurent **Muhleisen** – Sibylle **Muller** – Heinz **Schwarzinger** – Dominique **Tassel** – Nicole **Taubes** – Maurice **Taszman** – Brigitte **Vergne-Cain** – Catherine **Weinzorn** – Françoise **Wuilmart**
 
 
 ### 4. ESPAGNOL
 
 
-Philippe **Bataillon** – Albert **Bensoussan** – Claude **Bleton – **André **Camp** – Christine **Defoin – **Claude **de Frayssinet** –  André **Gabastou** – François **Gaudry** – Liliane **Hasson** – Bertille **Hausberg – **Denise **Laroutis** – Claude **Murcia** – Edmond **Raillard** – Jean-Marie **Saint-Lu** – Aline **Schulman** – Georges **Tyras**
+– Philippe **Bataillon** – Albert **Bensoussan** – Claude **Bleton** – André **Camp** – Christine **Defoin** – Claude **de Frayssinet** –  André **Gabastou** – François **Gaudry** – Liliane **Hasson** – Bertille **Hausberg** – Denise **Laroutis** – Claude **Murcia** – Edmond **Raillard** – Jean-Marie **Saint-Lu** – Aline **Schulman** – Georges **Tyras**
 
 
 ### 5. ITALIEN
 
 
-Charles **Alunni** – Monique **Baccelli** – François **Bouchard** – Myriem **Bouzaher** – Françoise **Brun** – René **de Ceccaty** – Maurice **Darmon** – Philippe **di Meo** – Karine **Espinosa** **Wackers** – Mario **Fusco** – Joël **Gayraud** – Ginette **Herry**– Christophe** Mileschi** – Chantal **Moiroud** – Michel **Orcel** – Jean-Baptiste **Para **– Catherine **Petitjean– **Jean-Pierre** Pisetta** – Alain **Pons** – Marguerite **Pozzoli** – Marilène **Raiola** – Vincent **Raynaud** – Dominique **Vittoz**
+– Charles **Alunni** – Monique **Baccelli** – François **Bouchard** – Myriem **Bouzaher** – Françoise **Brun** – René **de Ceccaty** – Maurice **Darmon** – Philippe **di Meo** – Karine **Espinosa Wackers** – Mario **Fusco** – Joël **Gayraud** – Ginette **Herry**– Christophe **Mileschi** – Chantal **Moiroud** – Michel **Orcel** – Jean-Baptiste **Para** – Catherine **Petitjean** – Jean-Pierre **Pisetta** – Alain **Pons** – Marguerite **Pozzoli** – Marilène **Raiola** – Vincent **Raynaud** – Dominique **Vittoz**
 
 
 ### 6. RUSSE
 
 
-Michel **Aucouturier **– Sophie **Benech** – Jacques **Catteau** – Anne **Coldefy-Faucard** – Anne **Delizée** – Hélène **Henry** – Bernard **Kreise** – Paul **Lequesne** – Jacques **Michaut-Paterno** – Jean–Luc **Moreau** – Véronique **Patte** – Anne-Marie **Tatsis-Botton**
+– Michel **Aucouturier** – Sophie **Benech** – Jacques **Catteau** – Anne **Coldefy-Faucard** – Anne **Delizée** – Hélène **Henry** – Bernard **Kreise** – Paul **Lequesne** – Jacques **Michaut-Paterno** – Jean–Luc **Moreau** – Véronique **Patte** – Anne-Marie **Tatsis-Botton**
 
 
 ### 7. PORTUGAIS
 
 
-Carlos **Batista** – José **da Silva Terra** – Anne **de Faria** – Elodie **Dupeau** – Michèle **Giudicelli **– Cécile **Lombard** – Marie-Hélène **Piwnick** – Annick **Moreau** – Patrick **Quillier** – Anne-Marie **Quint** – Isabel **Vale Ferreira** – Marie-Claire **Vromans**
+– Carlos **Batista** – José **da Silva Terra** – Anne **de Faria** – Elodie **Dupeau** – Michèle **Giudicelli** – Cécile **Lombard** – Marie-Hélène **Piwnick** – Annick **Moreau** – Patrick **Quillier** – Anne-Marie **Quint** – Isabel **Vale Ferreira** – Marie-Claire **Vromans**
 
 
 ## II. Ateliers vers les langues étrangères
 
-
-
-
 ### 1. DU FRANÇAIS AU NÉERLANDAIS
 
 
-- Marijke **Arijs** **- **Martin** de Haan** **- **Tom** de Keyzer** - Frans** Denissen** - Mirjiam **de Veth** **- **Katelijne** de Vuyst** - Rokus **Hofstede** **- **Jeanne** Holierhoek** - Marianne **Kaas** - Jan **Myshkin** - Désirée** Schijns** - Stefaan** van den Bremt** - Chris **van de Poel** - Eveline **van Hemert**
+– Marijke **Arijs** – Martin **de Haan** – Tom **de Keyzer** – Frans **Denissen** – Mirjiam **de Veth** – Katelijne **de Vuyst** – Rokus **Hofstede** – Jeanne **Holierhoek** – Marianne **Kaas** – Jan **Myshkin** – Désirée **Schijns** – Stefaan **van den Bremt** – Chris **van de Poel** – Eveline **van Hemert**
 
 
 ### 2. DU FRANÇAIS À l’ESPAGNOL
@@ -84,7 +81,7 @@ Carlos **Batista** – José **da Silva Terra** – Anne **de Faria** – Elodie
 ### 5. DU FRANÇAIS AU PORTUGAIS
 
 
-– ****Jorge **Bastos Cruz** – Odette** J. **Collas** **– Maria do Carmo** Figueria** – Maria José **Figueiredo** –  Luisa **Costa Gomez** – Guilhermina **Jorge** – Maria Eduarda **Keating** – Ana Cristina **Leonardo** – Zé **Lima **– Francisco José **Magalhaes** – Marcelo Jacques **de Moraes** – Robson **de Oliveira** – Carolina **Selvatici** – Christine** **Zurbach****
+– Jorge **Bastos Cruz** – Odette **J. Collas** – Maria do Carmo **Figueria** – Maria José **Figueiredo** –  Luisa **Costa Gomez** – Guilhermina **Jorge** – Maria Eduarda **Keating** – Ana Cristina **Leonardo** – Zé **Lima** – Francisco José **Magalhaes** – Marcelo Jacques **de Moraes** – Robson **de Oliveira** – Carolina **Selvatici** – Christine **Zurbach**
 
 
 ## III. Ateliers d’écriture

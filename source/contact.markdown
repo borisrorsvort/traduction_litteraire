@@ -10,7 +10,7 @@ title: Contact
 
 Belgique
 
-**Tél. + fax : **+32 2 569 68 12
+**Tél. + fax :** +32 2 569 68 12
 
 **GSM :** +32 496 25 01 52
 

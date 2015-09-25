@@ -21,6 +21,7 @@ $navbar-default-link-hover-color: $navbar-default-brand-hover-color;
 
 .wrap[role=document] {
   background: #f1f1f1;
+  padding-bottom: 50px;
 }
 
 .content {
@@ -212,6 +213,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 // fqcebook
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe {
     width: 100% !important;
+}
+
+footer {
+  padding: 2em;
 }
 
 

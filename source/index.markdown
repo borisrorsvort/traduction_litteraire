@@ -28,5 +28,3 @@ C’est ensuite une plaque tournante d’échanges avec le monde professionnel d
 
 **Lieu :** Institut Supérieur de Traducteurs et Interprètes de la Communauté française de Belgique (ISTI), 34 rue Joseph Hazard - 1180 Bruxelles (Uccle)
 ** Pour toute information complémentaire, [contactez-nous](http://www.traduction-litteraire.com/contact)**
-
-[gallery columns="6" ids="1033,1034,1035,1036,1037"]

@@ -7,11 +7,11 @@ $grid-gutter-width: 60px;
 $navbar-default-bg: $brand-primary;
 $navbar-default-link-color: #fff;
 $navbar-default-link-active-color: #d4c5a6;
+$navbar-default-link-hover-color: $navbar-default-link-active-color;
 
 @import 'normalize.css/normalize';
 @import 'bootstrap';
 
-$navbar-default-link-hover-color: $navbar-default-brand-hover-color;
 
 .wrap {
   max-width: 1440px;

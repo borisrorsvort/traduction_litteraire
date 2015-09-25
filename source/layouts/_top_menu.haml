@@ -1,0 +1,44 @@
+%header.banner.navbar.navbar-default.navbar-static-top{:role => "banner"}
+  .wrap
+    .navbar-header
+      %button.navbar-toggle{"data-target" => ".navbar-collapse", "data-toggle" => "collapse", :type => "button"}
+        %span.sr-only Toggle navigation
+        %span.icon-bar
+        %span.icon-bar
+        %span.icon-bar
+      %a.navbar-brand{href: "/"} CETL – Centre Européen de Traduction Littéraire
+    %nav.collapse.navbar-collapse{:role => "navigation"}
+      %ul#menu-primary-navigation.nav.navbar-nav
+        %li.dropdown.menu-a-propos
+          %a.dropdown-toggle{"data-target" => "#", "data-toggle" => "dropdown", href: "/"}
+            À propos
+            %b.caret
+          %ul.dropdown-menu
+            %li.menu-la-formule-cetl
+              %a{href: "/le-cetl/la-formule-cetl/"} La Formule CETL
+            %li.menu-conditions-dadmission
+              %a{href: "/le-cetl/conditions-d-admission/"} Conditions d’admission
+            %li.menu-lieu
+              %a{href: "/le-cetl/lieu/"} Lieu
+            %li.menu-cours-a-distance
+              %a{href: "/le-cetl/cours-a-distance/"} Cours à distance
+            %li.menu-liste-des-enseignants
+              %a{href: "/le-cetl/liste-des-enseignants/"} Liste des enseignants
+            %li.menu-programme-des-ateliers
+              %a{href: "/le-cetl/calendrier-et-contenu-des-cours/"} Programme des ateliers
+            %li.menu-le-diplome
+              %a{href: "/le-cetl/le-diplome/"} Le diplôme
+            %li.menu-direction
+              %a{href: "/le-cetl/direction/"} Direction
+            %li.menu-examens
+              %a{href: "/le-cetl/examens/"} Examens
+        %li.menu-ateliers{nav_active("/ateliers/")}
+          %a{href: "/ateliers/"} Ateliers
+        %li.menu-stages-a-seneffe{nav_active("/stages-seneffe/")}
+          %a{href: "/stages-seneffe/"} Stages à Seneffe
+        %li.menu-tarifs{nav_active("/tarifs/")}
+          %a{href: "/tarifs/"} Tarifs
+        %li.menu-liens{nav_active("/liens/")}
+          %a{href: "/liens/"} Liens
+        %li.menu-contact{nav_active("/contact/")}
+          %a{href: "/contact/"} Contact

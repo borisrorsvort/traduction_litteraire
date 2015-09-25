@@ -1,2 +1,5 @@
-%footer{role: "contentinfo"}
-  &copy; #{Time.now.year} #{data.config.site.title}
+%footer.content-info.container{:role => "contentinfo"}
+  .row
+    .col-lg-12
+      %p
+        © #{Time.now.year} #{data.config.site.title}

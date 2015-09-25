@@ -37,8 +37,8 @@ end
 sass_dir = 'source/stylesheets', 'bower_components'
 
 after_configuration do
-    @bower_config = JSON.parse(IO.read("#{root}/.bowerrc"))
-    sprockets.append_path File.join "#{root}", @bower_config["directory"]
+  @bower_config = JSON.parse(IO.read("#{root}/.bowerrc"))
+  sprockets.append_path File.join "#{root}", @bower_config["directory"]
 end
 
 activate :bower # User Bower to manage vendor scripts

@@ -1,14 +1,14 @@
 # Site wide settings
 site:
-  root_url: http://www.example.com
-  title: Middleman Basis
+  root_url: http://www.traduction-litteraire.com
+  title: CETL – Centre Européen de Traduction Littéraire
   title_separator: " &mdash; "
   meta_description: Example description
   meta_keywords:
     - example
     - keyword
   author: Example Author
-  active_navigation_item_class: current
+  active_navigation_item_class: active
   analytics_id: UA-XXXXXXX-XX
 
 # Author of CSS & JavaScript

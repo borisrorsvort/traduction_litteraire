@@ -1,19 +1,14 @@
 ---
 title: De la traduction litteraire
+layout: 'articles'
 ---
 
 <% if blog.articles %>
   <% blog.articles.reverse.each do |article| %>
-    <article class='media'>
+    <article class='article'>
       <h3>
         <a href="<%= article.url %>"><%= article.title %></a>
       </h3>
-      <small>
-        <p>
-          <i class="glyphicon glyphicon-tag"></i>
-          <%= article.data.category %>
-        </p>
-      </small>
       <a href="<%= article.url %>">Lire l'article</a>
     </article>
   <% end %>

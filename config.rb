@@ -31,7 +31,12 @@ set :js_dir,      'javascripts'
 activate :blog do |blog|
   blog.prefix = 'articles'
   blog.permalink = '{title}.html'
+  blog.layout = 'articles'
   blog.sources   = '{id}-{title}.html'
+  blog.tag_template = "/tag.html"
+  blog.paginate = true
+  blog.per_page = 10
+  blog.page_link = "page/{num}"
 end
 
 sass_dir = 'source/stylesheets', 'bower_components'
@@ -45,6 +50,9 @@ activate :bower # User Bower to manage vendor scripts
 activate :directory_indexes # Pretty URLs - See https://middlemanapp.com/advanced/pretty_urls/
 activate :relative_assets
 set :relative_links, true
+
+page "/feed.xml", layout: false
+
 # --------------------------------------------------------------------------------------------------
 # Build configuration
 # --------------------------------------------------------------------------------------------------

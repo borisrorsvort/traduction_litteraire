@@ -1,2 +1,4 @@
 %aside.sidebar.hidden-xs.hidden-sm.col-md-3.col-lg-3{:role => "complementary"}
-  %img.thumbnail.attachment-large.wp-post-image{:alt => "durer.st-jerome", :height => "939", :src => "../images/illus/durer-st-jerome.jpg", :width => "728"}/
+  - illu = current_page.data.illu || 'durer'
+  .thumbnail
+    %img{alt: illu, src: "/images/illus/#{illu}.jpg"}

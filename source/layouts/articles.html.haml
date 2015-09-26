@@ -4,15 +4,16 @@
   = partial "layouts/header"
   .wrap{:role => "document"}
     .content.row
-      = partial "layouts/sidebar-left"
+      = partial "layouts/articles-sidebar-left"
       .main.col-sm-9.col-md-6.col-lg-7
         %h1
           = current_page.data.title
-          - if current_page.data.category
-            %small
-              %p
-                %i.glyphicon.glyphicon-tag
-                = current_page.data.category
+          - if current_page.data.tags
+            - current_page.data.tags.each do |tag|
+              %small
+                %p
+                  %i.glyphicon.glyphicon-tag
+                  %a{href: tag_path(tag)}= tag
         = yield
       = partial "layouts/sidebar-right"
   = partial "layouts/footer"

@@ -3,13 +3,13 @@ site:
   root_url: http://www.traduction-litteraire.com
   title: CETL – Centre Européen de Traduction Littéraire
   title_separator: " &mdash; "
-  meta_description: Example description
+  meta_description: Centre Européen de Traduction Littéraire. Avec le soutien de la Communauté française de Belgique, de la Commission communautaire française.
   meta_keywords:
-    - example
-    - keyword
-  author: Example Author
+    - traduction
+    - traduction littéraire
+  author: Françoise Wuilmart
   active_navigation_item_class: active
-  analytics_id: UA-XXXXXXX-XX
+  analytics_id: UA-2826331-7
 
 # Author of CSS & JavaScript
 source:

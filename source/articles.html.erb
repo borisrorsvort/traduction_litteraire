@@ -1,19 +1,20 @@
 ---
-title: Articles
+title: De la traduction litteraire
 ---
 
 <% if blog.articles %>
-  <%= blog.articles.count%>
-
   <% blog.articles.reverse.each do |article| %>
-    <article>
-      <h1>
+    <article class='media'>
+      <h3>
         <a href="<%= article.url %>"><%= article.title %></a>
-      </h1>
-
-      <%= article.summary %>
-
-      <a href="<%= article.url %>">Read more</a>
+      </h3>
+      <small>
+        <p>
+          <i class="glyphicon glyphicon-tag"></i>
+          <%= article.data.category %>
+        </p>
+      </small>
+      <a href="<%= article.url %>">Lire l'article</a>
     </article>
   <% end %>
 <% end %>

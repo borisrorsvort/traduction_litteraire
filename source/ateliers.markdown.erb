@@ -1,0 +1,15 @@
+---
+title: Ateliers
+---
+
+<% if data.workshops %>
+<% data.workshops.each do |workshop| %>
+
+<h2 class='text-danger'><%= workshop.date %></h2> 
+
+### <%= workshop.title %>
+
+<%= workshop.body %>
+
+<% end %>
+<% end %>

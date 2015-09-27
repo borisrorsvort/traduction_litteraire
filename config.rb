@@ -71,6 +71,7 @@ configure :build do
   # Compress images (default)
   require "middleman-smusher"
   activate :smusher
+  activate :gzip
   # Compress ALL images (advanced)
   # Before activating the below, follow setup instructions on https://github.com/toy/image_optim
   # activate :imageoptim do |options|

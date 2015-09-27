@@ -8,12 +8,16 @@
       .main.col-sm-12.col-md-6.col-lg-6
         %h1
           = current_page.data.title
-          - if current_page.data.tags
-            - current_page.data.tags.each do |tag|
-              %small
-                %p
+          %small
+            %p
+              - if current_page.data.tags
+                - current_page.data.tags.each do |tag|
                   %i.glyphicon.glyphicon-tag
                   %a{href: tag_path(tag)}= tag
+              - if current_page.data.author
+                = ' | '
+                %i.glyphicon.glyphicon-user
+                = current_page.data.author
         = yield
       = partial "layouts/sidebar-right"
   = partial "layouts/footer"

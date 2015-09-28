@@ -21,7 +21,7 @@ Coût (all inclusive=stage et pension complète) : **700 euros**
 
 **2. Stage d’écriture créative pour traducteurs littéraires animé par Michel Volkovitch**
 
-Pour une maîtrise optimale de la langue française par le biais d’exercices ludiques et pourtant dignes de l’Académie française…
+Pour une maîtrise optimale de la langue française par le biais d’exercices ludiques et pourtant dignes de l’Académie française...
 Sous la houlette de Michel Volkovitch, traducteur littéraire, poète, chroniqueur
 
 Deux journées et demie pour les travaux : lundi 13, mardi 14 et mercredi 15 avril (matinée)

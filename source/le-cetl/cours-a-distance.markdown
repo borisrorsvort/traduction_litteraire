@@ -10,7 +10,7 @@ Il s’agit d’une formation « à la carte » qui vous permet de commencer l
 Toutes les combinaisons linguistiques sont acceptées et organisées dans la mesure du possible.
 
 Dès que votre inscription est validée, vous recevrez une série de textes à traduire (10 sur l'année, au minimum, correspondant aux 10 ateliers du CETL, mais le nombre de textes proposé dépendra aussi de la longueur et du degré de difficulté de chaque exercice).
-En général les textes sont relativement longs, et il faut compter de 15 jours à 1 mois entre le moment où je vous envoie l’exercice et celui où vous me renvoyez votre traduction. Vous pouvez bien sûr accélérer le rythme….
+En général les textes sont relativement longs, et il faut compter de 15 jours à 1 mois entre le moment où je vous envoie l’exercice et celui où vous me renvoyez votre traduction. Vous pouvez bien sûr accélérer le rythme....
 
 Vous recevrez également une liste d’ouvrages théoriques sur la traduction qui alimenteront votre réflexion sur la pratique mais qui ne supplanteront jamais celle-ci. Vous seront envoyés également quelques articles pointus et formateurs.
 

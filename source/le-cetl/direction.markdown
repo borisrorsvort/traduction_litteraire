@@ -54,7 +54,7 @@ _Mère de deux enfants (une fille médecin, un fils psychologue)_
 
 _Babel, Équivalences, Translittérature, META, Palimpsestes, Rilune, Les Cahiers de la Sorbonne_, etc. et dans les actes de colloques.
 
-Une vingtaine d’articles ont été traduits et publiés dans plusieurs langues étrangères (allemand, anglais, bulgare, estonien, hongrois, letton, lituanien, néerlandais, roumain, russe, slovaque, ukrainien…)
+Une vingtaine d’articles ont été traduits et publiés dans plusieurs langues étrangères (allemand, anglais, bulgare, estonien, hongrois, letton, lituanien, néerlandais, roumain, russe, slovaque, ukrainien...)
 
 
 ## Principales traductions (de l’allemand, du néerlandais et de l’anglais au français):

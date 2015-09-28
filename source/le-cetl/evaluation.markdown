@@ -77,10 +77,10 @@ allongement ou raccourcissement de la phrase (en diluant ou en synthétisant le 
 
 
 
-  1. Erreur dans le rendu de la **tonalité** : intention de l’auteur dans la production d’un effet sur le lecteur (polémique, humour, révolte…).
+  1. Erreur dans le rendu de la **tonalité** : intention de l’auteur dans la production d’un effet sur le lecteur (polémique, humour, révolte...).
 
 
-  2. Non-repérage de **l’intertextualité** ou de **l’interculturalité** (allusions culturelles, pastiches, calques de styles…).
+  2. Non-repérage de **l’intertextualité** ou de **l’interculturalité** (allusions culturelles, pastiches, calques de styles...).
 
 
   3. Le **nivellement** ou rabotage des écarts de la langue normative, voulus par l’auteur, et de là, la banalisation du style original de l’auteur et l’acclimatation au goût de la culture-cible.

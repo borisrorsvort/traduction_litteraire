@@ -1,6 +1,6 @@
 ---
 title: Qualité et formation
-date: 2015-09-22 19:59 UTC
+date: 2015-09-22 20:02 UTC
 author: Françoise Wuilmart
 tags:
   - Articles de fond

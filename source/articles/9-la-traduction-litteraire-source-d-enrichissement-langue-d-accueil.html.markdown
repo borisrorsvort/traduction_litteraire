@@ -1,6 +1,6 @@
 ---
 title: La traduction littéraire, source d'enrichissement de la langue d'accueil
-date: 2015-09-22 19:59 UTC
+date: 2015-09-22 20:00 UTC
 author: Françoise Wuilmart
 tags:
   - Articles de fond

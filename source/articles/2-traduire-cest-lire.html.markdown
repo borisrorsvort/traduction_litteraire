@@ -5,6 +5,7 @@ author: Françoise Wuilmart
 tags:
   - Articles de fond
 layout: articles
+id: 2
 ---
 
 Publié dans _Ecrire et Traduire_, Textes édités par Christian Libens avec la collaboration de Nathalie Ryelandt, Editions Luc Pire, Bruxelles, 2000.

@@ -5,6 +5,7 @@ author: Françoise Wuilmart
 tags:
   - Articles de fond
 layout: articles
+id: 4
 ---
 
 **Nietzsche à l'écoute de Fonagy**

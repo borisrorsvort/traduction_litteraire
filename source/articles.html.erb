@@ -4,7 +4,7 @@ layout: 'articles'
 ---
 
 <% if blog.articles %>
-  <% blog.articles.reverse.each do |article| %>
+  <% blog.articles.sort_by{|a| a.data.id}.each do |article| %>
     <article class='article'>
       <h3>
         <a href="<%= article.url %>"><%= article.title %></a>

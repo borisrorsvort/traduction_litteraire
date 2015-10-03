@@ -5,6 +5,7 @@ author: Françoise Wuilmart
 tags:
   - Articles de fond
 layout: articles
+id: 10
 ---
 
 _Discours prononcé lors de la remise du Prix franco-arabe, Paris 2010_

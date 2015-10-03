@@ -5,6 +5,7 @@ author: Françoise Wuilmart
 tags:
   - Articles de fond
 layout: articles
+id: 8
 ---
 
 Publié dans Forum: _International Journal of Interpretation and Translation, 2012_, Le désir de traduire: l'intime du traducteur professionnel.

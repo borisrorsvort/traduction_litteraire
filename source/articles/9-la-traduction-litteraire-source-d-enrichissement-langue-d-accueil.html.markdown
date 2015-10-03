@@ -5,6 +5,7 @@ author: Françoise Wuilmart
 tags:
   - Articles de fond
 layout: articles
+id: 9
 ---
 
 ou l' « hospitalité langagière » bien conçue...

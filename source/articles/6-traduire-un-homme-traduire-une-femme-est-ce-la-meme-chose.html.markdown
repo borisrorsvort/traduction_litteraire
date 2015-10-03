@@ -5,6 +5,7 @@ author: Françoise Wuilmart
 tags:
   - Articles de fond
 layout: articles
+id: 6
 ---
 
 Publié dans la revue _Palimpsestes_, n° 22, Traduire le genre: femmes en traduction, Presses de la Sorbonne nouvelle, Paris, 2009.

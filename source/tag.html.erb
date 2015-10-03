@@ -13,13 +13,11 @@ layout: articles
     <p><%= link_to 'Previous page', prev_page %></p>
   <% end %>
 <% end %>
-
-<% page_articles.each_with_index do |article, i| %>
+<% page_articles.sort_by{|a| a.data.id}.each_with_index do |article, i| %>
   <article class='article'>
     <h3>
       <a href="<%= article.url %>"><%= article.title %></a>
     </h3>
-    <a href="<%= article.url %>">Lire l'article</a>
   </article>
 <% end %>
 

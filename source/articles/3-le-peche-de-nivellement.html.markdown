@@ -5,6 +5,7 @@ author: Françoise Wuilmart
 tags:
   - Articles de fond
 layout: articles
+id: 3
 ---
 
 Publié dans _META_, le Journal des traducteurs, volume 52, n°3, septembre 2007

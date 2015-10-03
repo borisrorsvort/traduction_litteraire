@@ -15,3 +15,4 @@ gem "middleman-smusher"
 gem 'middleman-imageoptim'
 gem 'middleman-deploy'
 gem 'bootstrap-sass', require: false
+gem 'pry'

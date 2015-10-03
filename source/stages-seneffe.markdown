@@ -1,5 +1,6 @@
 ---
 title: Stages à Seneffe
+illu: 'college-seneffe'
 ---
 
 Durant les vacances de Pâques 2015 (du dimanche 5 avril au dimanche 19 avril inclus)  le CETL a organisé différents types de "stages" au Collège des traducteurs littéraires de Seneffe, Château de Seneffe, rue Lucien Plasman, 7180 Seneffe.

@@ -1,5 +1,6 @@
 ---
 title: Le diplôme
+illu: 'book-pen'
 ---
 
 ## Reconnaissance du diplôme décerné par le CETL

@@ -1,5 +1,6 @@
 ---
 title: Cours à distance
+illu: 'book-pen'
 ---
 
 ## Procédure pour les cours à distance de traduction littéraire

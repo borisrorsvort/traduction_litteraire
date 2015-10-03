@@ -1,5 +1,6 @@
 ---
 title: Examens
+illu: 'soutenance-seneffe'
 ---
 
 Un examen de passage a lieu à la fin de l’année civile. L’étudiant n’aura accès à la seconde année que s’il obtient au moins 60%.

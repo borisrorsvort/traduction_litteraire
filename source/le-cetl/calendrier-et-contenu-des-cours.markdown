@@ -68,7 +68,7 @@ Des stages professionnels complémentaires sont régulièrement organisés par l
 
 
 
-[Consulter les stages organisés en 2014](http://www.traduction-litteraire.com/stages-seneffe/)
+[Consulter les stages organisés en 2014](/stages-seneffe/)
 
 
 
@@ -79,4 +79,4 @@ Des stages professionnels complémentaires sont régulièrement organisés par l
 
 Le CETL organise également des cours à distance pour les candidats résidant à l’étranger.
 
-(cf. la page dédiée aux [cours à distance](http://www.traduction-litteraire.com/le-cetl/cours-a-distance/))
+(cf. la page dédiée aux [cours à distance](/le-cetl/cours-a-distance/))

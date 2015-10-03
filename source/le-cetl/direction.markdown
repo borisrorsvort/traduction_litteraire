@@ -59,114 +59,55 @@ Une vingtaine d’articles ont été traduits et publiés dans plusieurs langues
 
 ## Principales traductions (de l’allemand, du néerlandais et de l’anglais au français):
 
-
-
-
-
-
   * Pour les Editions _Gallimard_ : _Le Principe Espérance_, **Ernst Bloch** (3 tomes) (de 1973 à 1991)
-
-
   * Pour les Editions _Labor_ : _Les Poires de Ribbeck_, **F.C. Delius**, (1994)
-
-
-
-
   * Pour les Éditions Actes Sud: les oeuvres majeures de **Jean Améry**:
-
 
     * _Charles Bovary, Portrait d’un homme simple_ (1991).
 
-
     * _Par-delà le Crime et le Châtiment_ (1995)
-
 
     * _Lefeu ou la démolition_ (février 1996)
 
-
     * _Porter la main sur soi - Traité du suicide_ (octobre 1996)
 
-
-
-
-
-  * Pour les Editions _La Différence_ : _Jeudi 15h30_, de** Kristien Hemmerechts**
-
+  * Pour les Editions _La Différence_ : _Jeudi 15h30_, de **Kristien Hemmerechts**
 
   * **SAID** : « _Là où je meurs est mon exil_ », recueil de poèmes sur l’exil (allemand au français)
 
-
-  * Pour les éditions _Gallimard_, collections Témoins: _Une** Femme à Berlin**_ , Anonyme, paru le 9 novembre 2006 – mai 2013 : **100 000 exemplaires** (Folio)
-
+  * Pour les éditions _Gallimard_, collections Témoins: _Une Femme à Berlin_ , Anonyme, paru le 9 novembre 2006 – mai 2013 : **100 000 exemplaires** (Folio)
 
   * Pour les éditions _Flammarion_ :
 
-
-    * _Pourquoi la vie passe plus vite à mesure qu’on vieillit_,** Douwe Draaisma**., 5 avril 2008 (du néerlandais au français)
-
+    * _Pourquoi la vie passe plus vite à mesure qu’on vieillit_, **Douwe Draaisma**., 5 avril 2008 (du néerlandais au français)
 
     * Retraduction de neuf Nouvelles de Stefan Zweig, février 2013 (de l’allemand au français)
 
-
-
-
-
   * Pour la Maison Antoine Vitez :
-
 
     * _Cette Fleur est ma révolution_, pièce de théâtre poétique, de **Peter Verhelst**, mai 2007 (du néerlandais au français)
 
-
     * _Le Couple Alpha_, pièce de théâtre de **Marijke Schemers**, avril 2006 (du néerlandais au français)
-
-
-
-
 
   * Pour La Galerie, Centre d’Art contemporain :
 
-
     * _Grandéveillée !_, monologue pour le théâtre, de **Orla Barry**, mai 2009 (de l’anglais au français)
-
-
-
-
 
   * Pour Ixelles-Publishing :
 
-
     * _Substitutions_, de **Tania Carver**, novembre 2009 (de l’anglais au français)
-
 
     * Nombreuses traductions culturelles : essais sur la philosophie de l’art, sur la psychologie et la psychanalyse, livret d’opéra, catalogues d’art
 
-
-
-
-
   * Pour les éditions Robert Laffont (collection Bouquins), février 2013 :
 
-
-    * **Stefan Zweig **:** Le Joueur d’échecs /Vingt-quatre heures de la vie d’une femme/ La Nuit fantastique/ La Croix/ La Marche/ La Collection invisible/ Histoire au Crépuscule/ La Contrainte/ Les sœurs (dis)semblables.**
-
-
-
-
-
-
+    * **Stefan Zweig:** Le Joueur d’échecs / Vingt-quatre heures de la vie d’une femme / La Nuit fantastique / La Croix/ La Marche / La Collection invisible / Histoire au Crépuscule / La Contrainte / Les sœurs (dis)semblables.
 
   * Depuis avril 2013 , pour les éditions Verdier :
 
-
     * chargée de la coordination du chapitre Le Traducteur : tome III de Histoire des traductions en langue française, à paraître en 2014.
 
-
-
-
-
-  * **Nombreuses traductions culturelles **: essais sur la philosophie de **l’art**, sur la **psychologie et la psychanalyse, livret d’opéra, catalogues d’art**.
-
-
+  * **Nombreuses traductions culturelles:** essais sur la philosophie de **l’art**, sur la **psychologie et la psychanalyse, livret d’opéra, catalogues d’art**.
 
 
 ## PRIX

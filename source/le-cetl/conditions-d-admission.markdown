@@ -7,4 +7,4 @@ Le CETL est un cycle de formation postuniversitaire (troisième cycle); les cour
 
 Il est prévu un nombre maximum de 15 étudiants par classe.
 
-Pour le montant des droits d’inscription: [contactez-nous](http://www.traduction-litteraire.com/contact).
+Pour le montant des droits d’inscription: [contactez-nous](/contact).

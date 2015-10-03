@@ -2,7 +2,7 @@
 title: Tarifs
 ---
 
-_Attention_: l'inscription aux ateliers n'est valable que si elle est accompagnée du règlement d'un acompte de 500 euros au moins. Cet acompte n'est récupérable en aucun cas._
+_Attention_: l'inscription aux ateliers n'est valable que si elle est accompagnée du règlement d'un accompte de 500 euros au moins. Cet acompte n'est récupérable en aucun cas.
 
 
 ## I. Sections langue d’arrivée: français

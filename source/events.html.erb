@@ -1,0 +1,14 @@
+---
+title: Événements
+---
+
+<% if data.events %>
+  <% data.events.each do |event| %>
+    <h3 class=''><%= event.date %></h3>
+    <h3>
+      <a href="<%= event.url %>" target="_blank">
+        <%= event.title %>
+      </a>
+    </h3>
+  <% end %>
+<% end %>

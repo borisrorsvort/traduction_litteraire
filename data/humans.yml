@@ -1,18 +1,15 @@
 # humans.txt content - more information here: http://humanstxt.org/
 team:
-  - name: Jane Doe
-    role: Example Role 1
-    contact: "@twitterhandle"
-  - name: John Doe
-    role: Example Role 2
-    contact: "http://www.example.com"
+  - name: Boris Rorsvort
+    role: "Designer, Developer"
+    contact: "@borisrorsvort"
 
 shoutouts:
-  - name: Example company
-    contact: http://www.example.com
+  - name: Centre Européen de Traduction Littéraire
+    contact: http://www.traduction-litteraire.com
 
 languages:
-  - English
+  - French
 
 standards_used:
   - CSS3
@@ -20,10 +17,9 @@ standards_used:
   - JavaScript
 
 components_used:
-  - Apache Server Configs
-  - Modernizr
-  - Normalize.css
-  - html5shiv
+  - Middleman
+  - Jquery
+  - Boostrap
 
 software_used:
-  - Sublime Text
+  - Atom

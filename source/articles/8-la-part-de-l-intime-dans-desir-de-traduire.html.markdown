@@ -1,5 +1,5 @@
 ---
-title: La part de l'intime
+title: La part de l'intime dans le désir de traduire
 date: 2015-09-22 19:59 UTC
 author: Françoise Wuilmart
 tags:

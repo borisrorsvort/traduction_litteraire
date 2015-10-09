@@ -15,3 +15,5 @@ A partir de septembre 2015, les ateliers et les séminaires du CETL se donneron
 - 21/11: NA4.302
 - 28/11: NA4.302
 - 5/12: NA4.302
+
+[Cliquez ici pour un aperçu du campus](http://www.ulb.ac.be/campus/solbosch/plan.html)

@@ -1,11 +1,5 @@
 # CETL Website
 
-[![Build Status](https://travis-ci.org/pzi/middleman-basis.svg?branch=master)](https://travis-ci.org/pzi/middleman-basis)
-
-> Basis comes with a bare minimum of pre-installs, ready for you to take it to the next level.
-It is literally, the Basis for building a good, performant website.
-
-
 ## General Information
 
  * [middleman][middleman-url]
@@ -34,7 +28,7 @@ The Basis for building a good, performant website. Middleman Basis uses:
 *develop*
 
 ```
-divshot push; divshot promote development production; divshot open
+firebase deploy
 
 ```
 

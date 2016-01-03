@@ -2,14 +2,15 @@
 title: Tarifs
 ---
 
-_Attention_: l'inscription aux ateliers n'est valable que si elle est accompagnée du règlement d'un accompte de 500 euros au moins. Cet acompte n'est récupérable en aucun cas.
+(d’application à partir du 1 janvier 2016)
+
+_Attention_: l'inscription aux ateliers n'est valable que si elle est accompagnée du règlement d'un accompte de 600 euros au moins. Cet acompte n'est récupérable en aucun cas.
 
 
 ## I. Sections langue d’arrivée: français
 
-  * Étudiants réguliers, prix standard par année : **2300€**
+  * Étudiants réguliers, prix standard par année : **2500€**
   * Professeurs de l’ISTI et de l'ULB: **1800€**
-  * Etudiants de l’ISTI et de l'ULB: **1200€**
 
 ## II. Sections langue d’arrivée étrangère
 

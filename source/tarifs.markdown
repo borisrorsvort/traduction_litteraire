@@ -41,3 +41,5 @@ Au-delà des trois années : un supplément de 500 euros par an sera exigé, po
 ## VI. Formation à distance:
 
 **2500€ par an. Formule double (ateliers sur place + exercices épistolaires) : 3500€ par an.**
+
+N.B. Des facilités de paiement (échelonnement) peuvent être octroyées exceptionnellement et pour des raisons valables étayées par des documents les attestant.

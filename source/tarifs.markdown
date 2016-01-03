@@ -34,8 +34,8 @@ La moitié des droits d’inscription réguliers
 ## V. Années mémoire
 
 La période normalement prévue pour la rédaction du mémoire est de trois ans.
-**Tarif : 3000 euros pour les trois années**, permettant aux inscrits de continuer à assister à tous les ateliers et séminaires.
-Au-delà des trois années : un supplément de 500 euros par an sera exigé, pour assurer la continuité du tutorat, pour pouvoir assister aux ateliers et séminaires et bénéficier de tout autre type de consultation professionnelle auprès du CETL.
+**Tarif: 3000 euros pour les trois années**, permettant aux inscrits de continuer à assister à tous les ateliers et séminaires.
+Au-delà des trois années: un supplément de 500 euros par an sera exigé, pour assurer la continuité du tutorat, pour pouvoir assister aux ateliers et séminaires et bénéficier de tout autre type de consultation professionnelle auprès du CETL.
 
 
 ## VI. Formation à distance:

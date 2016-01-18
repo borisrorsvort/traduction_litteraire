@@ -57,9 +57,9 @@ Durée du séjour et dates à convenir entre le participant et la direction.
 
 _________________________________________________________________________________
 
-Les candidatures sont à adresser par courriel ([formulaire ci-joint à compléter](http://www.traduction-litteraire.com/media/Formulaire-inscription-stages-2015.doc)) à :
+Les candidatures sont à adresser par courriel ([formulaire ci-joint à compléter](/documents/formulaire_inscription_stages_2016.rtf)) à :
 
-[Formulaire inscription stages 2015](http://www.traduction-litteraire.com/media/Formulaire-inscription-stages-2015.doc)
+[Formulaire inscription stages 2016](/presentation_stages__surtitrage_paques_seneffe_2016.doc)
 
 ctls@skynet.be
 Prof. Françoise Wuilmart

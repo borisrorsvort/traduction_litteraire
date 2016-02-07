@@ -3,68 +3,56 @@ title: Stages à Seneffe
 illu: 'college-seneffe'
 ---
 
-Durant les vacances de Pâques 2015 (du dimanche 5 avril au dimanche 19 avril inclus)  le CETL a organisé différents types de "stages" au Collège des traducteurs littéraires de Seneffe, Château de Seneffe, rue Lucien Plasman, 7180 Seneffe.
+**Durant les vacances de Pâques 2016 (du dimanche 27 mars au samedi 9 avril inclus)  le CETL  organisera différents types de "stages" au Collège des traducteurs littéraires de Seneffe, Château de Seneffe, rue Lucien Plasman, 7180 Seneffe.**
 
-**Ces stages pourront être organisés de nouveau en 2016, en fonction de la demande. Le programme sera annoncé sur ce site fin janvier 2016.**
-
-
-
-**1. Stage de sur-titrage animé par Michel Bataillon et Pierre-Yves Diez**
+**Stage de sur-titrage animé par Michel Bataillon et Pierre-Yves Diez**
 
 Un peu de théorie et beaucoup de pratique (régie) pour maîtriser les techniques de sur-titrage au théâtre et à l’opéra.
-Sous la houlette de Michel Bataillon, président de la Maison Antoine Vitez et de Pierre-Yves Diez, maître-informaticien et concepteur du logiciel Torticoli
 
-Cinq journées pour les travaux : du lundi 6 au vendredi 10 avril
-(arrivée le dimanche 5 avril au soir, départ le dimanche 12 avril avant midi).
+Sous la houlette de Michel Bataillon, président honoraire de la Maison Antoine Vitez et de Pierre-Yves Diez, maître-informaticien et concepteur du logiciel Torticolis
 
-Evénement exceptionnel : le samedi 11 avril : rencontres avec des professionnels du théâtre belge (colloque)
-Coût (all inclusive=stage et pension complète) : **700 euros**
+Le contenu détaillé des stages se trouve sur le site de la Maison Antoine Vitez
 
-**2. Stage d’écriture créative pour traducteurs littéraires animé par Michel Volkovitch**
+[http://www.maisonantoinevitez.com](http://www.maisonantoinevitez.com)
 
-Pour une maîtrise optimale de la langue française par le biais d’exercices ludiques et pourtant dignes de l’Académie française...
-Sous la houlette de Michel Volkovitch, traducteur littéraire, poète, chroniqueur
+**Cinq journées pour les travaux :** du lundi 28 mars au vendredi 1  avril
+(arrivée le dimanche 27 mars au soir, départ le samedi 2 avril).
 
-Deux journées et demie pour les travaux : lundi 13, mardi 14 et mercredi 15 avril (matinée)
-(arrivée le dimanche 12 avril dans l'après-midi ou en soirée et départ le mercredi 15 dans l’après-midi ou en soirée).
+**Coût (all inclusive = le stage et la pension complète comprenant trois repas et les boissons) : 800 euros**
 
-Coût (all inclusive=stage et pension complète) : **370 euro**
+Toutes les chambres luxueuses sont équipées du système Wi-Fi. Le Collège offre aussi l’accès 24 heures sur 24 à sa riche bibliothèque et à des locaux techniques super équipés (photocopieuse, scanner, matériel de projection etc.)
 
-**3. Stage d’édition de textes, animé par Denise Laroutis**
+<hr>
 
-Apprendre à produire un texte proche de la perfection à tous les niveaux, sous la houlette de Denise laroutis, traductrice littéraire, éditrice.
+**2. Stage d’édition de textes, animé par Denise Laroutis**
 
-Deux journées et demie pour les travaux : jeudi 16 après-midi, vendredi 17, samedi 18 avril
-(arrivée le jeudi 16 dans la matinée, départ le samedi 18 en soirée ou le dimanche matin)
+Apprendre à produire un texte proche de la perfection sur tous les plans.
+Sous la houlette de Denise laroutis, traductrice littéraire, éditrice.
 
-**Première journée:** préparation de copie, ce qui revient à rappeler les règles d’accueil d’un texte provenant d’un auteur, les premiers gestes à faire pour l’éditeur, la mise au point du texte — corps du texte et paratextuel —, la remise à l’imprimeur, toutes opérations intéressant tout aussi bien les traducteurs, qui peuvent se faire sur papier ou sur fichier électronique.
-Ce sera le moment de revoir les normes d’édition des textes: ponctuation, emploi de l’italique, des guillemets, des capitales, petits capitales et bas de casse, présentation des titres et intertitres, emploi et règles d’établissement des notes, règles concernant les citations, mentions obligatoires dans les ouvrages, etc.
+Trois journées pour les travaux : mardi 5, mercredi 6, jeudi 7 avril
+(arrivée le lundi 4 avril dans la soirée, départ le vendredi 8 avrildans la matinée
 
-**Deuxième journée:** le retour de l’imprimeur, soit la correction sur épreuves, papier ou fichier. Ici encore, il s'agit de l'acquisition d'une technique utile aux traducteurs. Le travail se fondera sur des exemples concrets et des exercices seront proposés aux stagiaires.
+**Première journée :** préparation de copie, ce qui revient à rappeler les règles d’accueil d’un texte provenant d’un auteur, les premiers gestes à faire pour l’éditeur, la mise au point du texte — corps du texte et paratextuel —, la remise à l’imprimeur, toutes opérations intéressant tout aussi bien les traducteurs, qui peuvent se faire sur papier ou sur fichier électronique.
+Ce sera le moment de revoir les normes d’édition des textes : ponctuation, emploi de l’italique, des guillemets, des capitales, petits capitales et bas de casse, présentation des titres et intertitres, emploi et règles d’établissement des notes, règles concernant les citations, mentions obligatoires dans les ouvrages, etc.
 
-**La troisième journée comprendra deux temps:** dans la première demi-journée, les éléments étudiés dans les deux premières journées seront rapportés à la relecture de la traduction: comment aborder une traduction dont on maîtrise la langue d’origine, une traduction dont on ne maîtrise pas la langue d’origine. Une autre façon d’aborder certains principes d’éthique de l’édition.
-La dernière demi-journée sera la conclusion d’une opération qui aura suivi, en parallèle, les assistants le long du stage: lire un livre, faire une fiche de lecture, rédiger la quatrième de couverture.
+**Deuxième journée :** le retour de l’imprimeur, soit la correction sur épreuves, papier ou fichier. Ici encore, il s'agit de l'acquisition d'une technique utile aux traducteurs. Le travail se fondera sur des exemples concrets et des exercices seront proposés aux stagiaires.
 
+**La troisième journée comprendra deux temps :** dans la première demi-journée, les éléments étudiés dans les deux premières journées seront rapportés à la relecture de la traduction : comment aborder une traduction dont on maîtrise la langue d’origine, une traduction dont on ne maîtrise pas la langue d’origine. Une autre façon d’aborder certains principes d’éthique de l’édition.
+La dernière demi-journée sera la conclusion d’une opération qui aura suivi, en parallèle, les assistants le long du stage : lire un livre, faire une fiche de lecture, rédiger la quatrième de couverture.
 
-Coût (all inclusive=stage et pension complète) : **370 euros**
+**Coût (all inclusive=stage et pension complète) : 450 euros**
 
-**4. Brain-storming sur les grands problèmes de traduction littéraire, stage animé par Françoise Wuilmart**
+<hr>
 
-Pleins feux sur des problèmes concrets de traduction littéraire, notamment sur la base d’exemples concrets soumis par les participants, sous la houlette de Françoise Wuilmart, traductrice littéraire, directrice du CETL et du CTLS
-
-Deux journées et demie pour les travaux : jeudi 16 après-midi, vendredi 17, samedi 18 avril
-(arrivée le jeudi 16 dans la matinée, départ le samedi 18 en soirée ou le dimanche matin)
-
-Coût (all inclusive=stage et pension complète) : **300 euros**
-
-**5. Séjour-retraite/tutorats**
+**3. Séjour-retraite/tutorats**
 
 Le résident, entièrement pris en charge par l’infrastructure hôtelière du Collège, trouvera à Seneffe l'occasion de travailler dans le calme et la sérénité, et d’exposer ses problèmes de traduction au cours de séances de consultations journalières avec des spécialistes. Il pourrait s'agir du mémoire (CETL) en cours de rédaction ou tout simplement d'autres traductions en train d’être réalisées.
 
-Le tarif pour ce type de "vacances studieuses" sera de **90 euros** par jour (all inclusive =  logement, trois repas et boissons, séances de tutorats, accès à la bibliothèque en permanence).
+**Le tarif pour ce type de "vacances studieuses" sera de 100 euros par jour (all inclusive =  logement, trois repas et boissons, séances de tutorats, accès à la bibliothèque en permanence).**
+
 Durée du séjour et dates à convenir entre le participant et la direction.
 
-_________________________________________________________________________________
+<hr>
 
 Les candidatures sont à adresser par courriel ([formulaire ci-joint à compléter](/documents/formulaire_inscription_stages_2016.doc)) à :
 

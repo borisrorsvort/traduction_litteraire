@@ -37,6 +37,15 @@ Apprendre à produire un texte proche de la perfection à tous les niveaux, sous
 Deux journées et demie pour les travaux : jeudi 16 après-midi, vendredi 17, samedi 18 avril
 (arrivée le jeudi 16 dans la matinée, départ le samedi 18 en soirée ou le dimanche matin)
 
+**Première journée:** préparation de copie, ce qui revient à rappeler les règles d’accueil d’un texte provenant d’un auteur, les premiers gestes à faire pour l’éditeur, la mise au point du texte — corps du texte et paratextuel —, la remise à l’imprimeur, toutes opérations intéressant tout aussi bien les traducteurs, qui peuvent se faire sur papier ou sur fichier électronique.
+Ce sera le moment de revoir les normes d’édition des textes: ponctuation, emploi de l’italique, des guillemets, des capitales, petits capitales et bas de casse, présentation des titres et intertitres, emploi et règles d’établissement des notes, règles concernant les citations, mentions obligatoires dans les ouvrages, etc.
+
+**Deuxième journée:** le retour de l’imprimeur, soit la correction sur épreuves, papier ou fichier. Ici encore, il s'agit de l'acquisition d'une technique utile aux traducteurs. Le travail se fondera sur des exemples concrets et des exercices seront proposés aux stagiaires.
+
+**La troisième journée comprendra deux temps:** dans la première demi-journée, les éléments étudiés dans les deux premières journées seront rapportés à la relecture de la traduction: comment aborder une traduction dont on maîtrise la langue d’origine, une traduction dont on ne maîtrise pas la langue d’origine. Une autre façon d’aborder certains principes d’éthique de l’édition.
+La dernière demi-journée sera la conclusion d’une opération qui aura suivi, en parallèle, les assistants le long du stage: lire un livre, faire une fiche de lecture, rédiger la quatrième de couverture.
+
+
 Coût (all inclusive=stage et pension complète) : **370 euros**
 
 **4. Brain-storming sur les grands problèmes de traduction littéraire, stage animé par Françoise Wuilmart**
@@ -57,7 +66,7 @@ Durée du séjour et dates à convenir entre le participant et la direction.
 
 _________________________________________________________________________________
 
-Les candidatures sont à adresser par courriel ([formulaire ci-joint à compléter](/documents/formulaire_inscription_stages_2016.rtf)) à :
+Les candidatures sont à adresser par courriel ([formulaire ci-joint à compléter](/documents/formulaire_inscription_stages_2016.doc)) à :
 
 [Formulaire inscription stages 2016](/presentation_stages__surtitrage_paques_seneffe_2016.doc)
 

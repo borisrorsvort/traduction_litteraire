@@ -68,7 +68,7 @@ ________________________________________________________________________________
 
 Les candidatures sont à adresser par courriel ([formulaire ci-joint à compléter](/documents/formulaire_inscription_stages_2016.doc)) à :
 
-[Formulaire inscription stages 2016](/presentation_stages__surtitrage_paques_seneffe_2016.doc)
+[Formulaire inscription stages 2016](/documents/presentation_stages__surtitrage_paques_seneffe_2016.doc)
 
 ctls@skynet.be
 Prof. Françoise Wuilmart

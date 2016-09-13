@@ -3,19 +3,21 @@ title: Événements
 ---
 
 <% if data.events %>
-  <% data.events.reverse.each do |event| %>
-    <h3 class=''><%= event.date %></h3>
-    <h3>
-      <% if event.url %>
-        <a href="<%= event.url %>" target="_blank">
+  <% data.events.each do |event| %>
+    <article class="event">
+      <h4 class='muted'><%= event.date %></h4>
+      <h3>
+        <% if event.url %>
+          <a href="<%= event.url %>" target="_blank">
+            <%= event.title %>
+          </a>
+        <% else %>
           <%= event.title %>
-        </a>
-      <% else %>
-        <%= event.title %>
+        <% end %>
+      </h3>
+      <% if event.body %>
+        <%= partial(:event_body, :locals => { :body => event.body}) %>
       <% end %>
-    </h3>
-    <% if event.body %>
-      <%= partial(:event_body, :locals => { :body => event.body}) %>
-    <% end %>
+    </article>
   <% end %>
 <% end %>

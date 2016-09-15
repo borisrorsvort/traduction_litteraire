@@ -21,15 +21,15 @@ title: Ateliers
 * Séminaires sur Droits d’auteur, Pratique de l’édition, Déontologie de la traduction (Olivier Mannoni – 2 x 5 heures, premier semestre)
 * Séminaires d’analyse textuelle (Jean-Claude Lebrun  – 3 x 5 heures, second semestre)
 
+<hr>
+
 <% if data.workshops %>
 <% data.workshops.each do |workshop| %>
-
-<h3 class='text-danger'><%= workshop.date %></h3>
-
-### <%= workshop.title %>
-
+<article class="event">
+<h4 class='muted'><%= workshop.date %></h4>
+<h3><%= workshop.title %></h3>
 <%= workshop.body %>
-
+</article>
 <% end %>
 <% end %>
 

@@ -20,7 +20,9 @@
 
 - title: Analyse textuelle
   date: Le 26 novembre 2016
-  body: 'Jean-Claude Lebrun – 1/3'
+  body: |-
+    Jean-Claude Lebrun – 1/3
+    <p style='color: red; font-weight: bold;'>ANNULÉ</p>
 
 - title: 'Analyse textuelle'
   date: 'Le 03 décembre 2016'
@@ -32,7 +34,7 @@
 
 - title: 'Analyse textuelle'
   date: 'Le 17 décembre 2016'
-  body: 'Anglais: Françoise Dusorbier'
+  body: 'Françoise WUILMART Brainstorming sur les problèmes de traduction'
 
 - title: 'EXAMENS du CETL'
   date: 'Du 18 au 21 décembre 2016'

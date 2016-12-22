@@ -3,7 +3,7 @@ title: Événements
 ---
 
 <% if data.events %>
-  <% data.events.each do |event| %>
+  <% data.events.reverse.each do |event| %>
     <article class="event">
       <h4 class='muted'><%= event.date %></h4>
       <h3>

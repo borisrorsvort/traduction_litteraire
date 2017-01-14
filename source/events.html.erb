@@ -1,10 +1,10 @@
 ---
 title: Événements
 ---
-
-<% if data.events %>
-  <% data.events.reverse.each do |event| %>
-    <article class="event">
+<div class="events">
+  <% if data.events %>
+    <% data.events.each do |event| %>
+    <article class="event" data-start-date="<%= event.start_date %>" data-end-date="<%= event.end_date %>">
       <h4 class='muted'><%= event.date %></h4>
       <h3>
         <% if event.url %>
@@ -19,5 +19,6 @@ title: Événements
         <%= partial(:event_body, :locals => { :body => event.body}) %>
       <% end %>
     </article>
+    <% end %>
   <% end %>
-<% end %>
+</div>

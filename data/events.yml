@@ -1,8 +1,12 @@
 - title: Collège de Seneffe, 20 ans au service de la littérature belge
+  start_date: 2015/09/15
+  end_date: 2015/09/15
   date: Le 28 septembre 2015
   url: https://www.actualitte.com/article/monde-edition/le-college-des-traducteurs-de-seneffe-fete-ses-20-ans/60714
 
 - title: Soutenance de mémoire de Madame Almira Drino
+  start_date: 10-10-2015
+  end_date: 10-10-2015
   date: Le 10 octobre 2015
   body: |-
     Le samedi 10 octobre 2015 s'est tenue la soutenance de mémoire de Madame **Almira Drino**, à la Faculté des Lettres de l'Université de **Belgrade**.
@@ -20,6 +24,8 @@
     **La note attribuée pour ce mémoire de qualité exceptionnelle fut 19/20, soit 95/100, publiable en l'état.**
 
 - title: 'La femme comme butin de guerre : l’écriture pour survivre, la traduction pour comprendre...'
+  start_date: 2016/01/15
+  end_date: 2016/01/15
   date: Le 15 janvier 2016 à 15h
   url: http://www.lamaisondulivre.be/spip.php?page=sommaire
   body: |-
@@ -28,6 +34,8 @@
     Le livre est paru en 2006 chez Gallimard. Il atteint aujourd’hui un record de 100 000 exemplaires, fut porté à la scène bien des fois en France et en Belgique, et sera produit en 2016 à Montréal.
 
 - title: 'Séance de clôture de la session d’été 2016 du CTLS'
+  start_date: 2016/09/04
+  end_date: 2016/09/04
   date: Le 4 septembre 2016 à partir de 15h
   url: http://www.ctls.be/?p=152
   body: |-
@@ -42,6 +50,8 @@
     [Plus d'infos ici](http://www.ctls.be/?p=152)
 
 - title: 'Soutenance de mémoires de Isabelle Raison (section allemand/français)'
+  start_date: 2017/01/19
+  end_date: 2017/01/19
   date: Le 19 janvier 2017 (10h à 13h)
   body: |-
     **Lieu :** CNL, 53 rue de Verneuil, 75007 Paris
@@ -49,5 +59,5 @@
     **Sujet :** Traduction en français de Fremde Signale, Katharina Faber
 
     **Directeur de mémoire :** Marie-Claude Auger
-    
+
     **Assesseurs :** Dieter Hornig, Jean-Claude Lebrun, Francoise Wuimart

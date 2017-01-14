@@ -178,7 +178,6 @@ GEM
     tilt (1.4.1)
     timers (4.0.1)
       hitimes
-    turbolinks (0.5.1)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     uber (0.0.13)
@@ -202,7 +201,6 @@ DEPENDENCIES
   middleman-smusher
   nokogiri
   pry
-  turbolinks
 
 BUNDLED WITH
-   1.10.6
+   1.13.6

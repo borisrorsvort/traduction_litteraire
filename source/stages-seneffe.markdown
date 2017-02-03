@@ -3,64 +3,20 @@ title: Stages à Seneffe
 illu: 'college-seneffe'
 ---
 
-**Durant les vacances de Pâques 2016 (du dimanche 27 mars au samedi 9 avril inclus)  le CETL  organisera différents types de "stages" au Collège des traducteurs littéraires de Seneffe, Château de Seneffe, rue Lucien Plasman, 7180 Seneffe.**
+**Durant les vacances de Pâques 2017 (du dimanche 2 au samedi 8 avril)  le CETL organisera son stage habituel de surtitrage au Collège des traducteurs littéraires de Seneffe, Château de Seneffe, rue Lucien Plasman, 7180 Seneffe.**
 
-**Stage de sur-titrage animé par Michel Bataillon et Pierre-Yves Diez**
+**Le Stage sera animé par Michel Bataillon et Pierre-Yves Diez.**
 
 Un peu de théorie et beaucoup de pratique (régie) pour maîtriser les techniques de sur-titrage au théâtre et à l’opéra.
 
 Sous la houlette de Michel Bataillon, président honoraire de la Maison Antoine Vitez et de Pierre-Yves Diez, maître-informaticien et concepteur du logiciel Torticolis
 
-Le contenu détaillé des stages se trouve sur le site de la Maison Antoine Vitez
+Le contenu détaillé des stages sera communiqué sur ce site et sur celui de la Maison Antoine Vitez début mars. [http://www.maisonantoinevitez.com](http://www.maisonantoinevitez.com)
 
-[http://www.maisonantoinevitez.com](http://www.maisonantoinevitez.com)
+**Cinq journées pour les travaux :** Cinq journées pour les travaux : du lundi 3 au vendredi 7 avril (arrivée le dimanche 2 au soir, départ le samedi 8 avril au matin).
 
-**Cinq journées pour les travaux :** du lundi 28 mars au vendredi 1  avril
-(arrivée le dimanche 27 mars au soir, départ le samedi 2 avril).
-
-**Coût (all inclusive = le stage et la pension complète comprenant trois repas et les boissons) : 800 euros**
+**Coût (all inclusive = le stage et la pension complète comprenant trois repas et les boissons) : 800 €**
 
 Toutes les chambres luxueuses sont équipées du système Wi-Fi. Le Collège offre aussi l’accès 24 heures sur 24 à sa riche bibliothèque et à des locaux techniques super équipés (photocopieuse, scanner, matériel de projection etc.)
 
-<hr>
-
-**2. Stage d’édition de textes, animé par Denise Laroutis**
-
-Apprendre à produire un texte proche de la perfection sur tous les plans.
-Sous la houlette de Denise laroutis, traductrice littéraire, éditrice.
-
-Trois journées pour les travaux : mardi 5, mercredi 6, jeudi 7 avril
-(arrivée le lundi 4 avril dans la soirée, départ le vendredi 8 avrildans la matinée
-
-**Première journée :** préparation de copie, ce qui revient à rappeler les règles d’accueil d’un texte provenant d’un auteur, les premiers gestes à faire pour l’éditeur, la mise au point du texte — corps du texte et paratextuel —, la remise à l’imprimeur, toutes opérations intéressant tout aussi bien les traducteurs, qui peuvent se faire sur papier ou sur fichier électronique.
-Ce sera le moment de revoir les normes d’édition des textes : ponctuation, emploi de l’italique, des guillemets, des capitales, petits capitales et bas de casse, présentation des titres et intertitres, emploi et règles d’établissement des notes, règles concernant les citations, mentions obligatoires dans les ouvrages, etc.
-
-**Deuxième journée :** le retour de l’imprimeur, soit la correction sur épreuves, papier ou fichier. Ici encore, il s'agit de l'acquisition d'une technique utile aux traducteurs. Le travail se fondera sur des exemples concrets et des exercices seront proposés aux stagiaires.
-
-**La troisième journée comprendra deux temps :** dans la première demi-journée, les éléments étudiés dans les deux premières journées seront rapportés à la relecture de la traduction : comment aborder une traduction dont on maîtrise la langue d’origine, une traduction dont on ne maîtrise pas la langue d’origine. Une autre façon d’aborder certains principes d’éthique de l’édition.
-La dernière demi-journée sera la conclusion d’une opération qui aura suivi, en parallèle, les assistants le long du stage : lire un livre, faire une fiche de lecture, rédiger la quatrième de couverture.
-
-**Coût (all inclusive=stage et pension complète) : 450 euros**
-
-<hr>
-
-**3. Séjour-retraite/tutorats**
-
-Le résident, entièrement pris en charge par l’infrastructure hôtelière du Collège, trouvera à Seneffe l'occasion de travailler dans le calme et la sérénité, et d’exposer ses problèmes de traduction au cours de séances de consultations journalières avec des spécialistes. Il pourrait s'agir du mémoire (CETL) en cours de rédaction ou tout simplement d'autres traductions en train d’être réalisées.
-
-**Le tarif pour ce type de "vacances studieuses" sera de 100 euros par jour (all inclusive =  logement, trois repas et boissons, séances de tutorats, accès à la bibliothèque en permanence).**
-
-Durée du séjour et dates à convenir entre le participant et la direction.
-
-<hr>
-
-Les candidatures sont à adresser par courriel ([formulaire ci-joint à compléter](/documents/formulaire_inscription_stages_2016.doc)) à :
-
-[Formulaire inscription stages 2016](/documents/presentation_stages__surtitrage_paques_seneffe_2016.doc)
-
-ctls@skynet.be
-Prof. Françoise Wuilmart
-Directrice du CETL et du CTLS
-29, Tuinbouwlaan
-1700 Dilbeek – Belgique
-Tél. mobile : +32 (0) 496 25 01 52
+Pour tout renseignement supplémentaire veuillez écrire au ctls@skynet.be ou téléphoner à la directrice du collège : Françoise Wuilmart, +32 (0) 496 25 01 52

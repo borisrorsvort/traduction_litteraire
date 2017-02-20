@@ -1,7 +1,9 @@
 ---
 title: Stages à Seneffe
-illu: 'college-seneffe'
+illu: 'none'
 ---
+
+![Collège de seneffe](illus/college-seneffe-big.jpg)
 
 **Durant les vacances de Pâques 2017 (du dimanche 2 au samedi 8 avril) le CETL organisera son stage habituel de surtitrage au Collège des traducteurs littéraires de Seneffe, Château de Seneffe, rue Lucien Plasman, 7180 Seneffe.**
 

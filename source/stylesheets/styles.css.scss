@@ -164,7 +164,6 @@ p.callout {
 
 img {
   max-width: 100%;
-  height: 100%;
 }
 img.alignleft,
 img.alignright {
@@ -186,30 +185,6 @@ img.alignright {
 .alignleft { float: left; }
 .alignright { float: right; }
 figure.alignnone { margin-left: 0; margin-right: 0; }
-
-
-// CENTERED BACKGROUND
-// We use this to center an image inside a div. e.g. avatars, ...
-// It requires to be linked to a div that has a (min-)height
-// --------------------------------------------------
-.centered-background {
-  background-color: #000;
-  background-position: 50%;
-  background-repeat: none;
-  background-size: cover !important;
-  overflow: hidden;
-  position: relative;
-  img {
-    // background-image is inline
-    width: 100%;
-    html.backgroundsize & {
-      display: none;
-    }
-  }
-  .no-backgroundsize & {
-    background-image: none !important;
-  }
-}
 
 // fqcebook
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe {

@@ -1,5 +1,5 @@
 ---
-title: Le manifeste CETL
+title: Le manifeste du CETL
 ---
 
 ## La traduction littéraire : qualité et formation.

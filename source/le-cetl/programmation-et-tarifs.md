@@ -14,6 +14,6 @@ title: Programmation et tarifs
 
 4. L’inscription aux cours à distance donne à l’étudiant le droit d’assister aux séminaires/ateliers organisés durant les vacances scolaires au Collège des traducteurs de Seneffe. L’étudiant n’aura à sa charge que le montant supplémentaire couvrant la pension complète (les séminaires se font en résidence). Sujets abordés&nbsp;: Aspects pragmatiques du métier (Monde de l’édition, Contrats d’édition, Droits d’auteurs etc.), ateliers d’écriture créative pour traducteurs littéraires et analyse textuelle..
 
-**Attention:** l'inscription aux cours à distance n'est valable que si elle est accompagnée du règlement d'un acompte de 1000 euros au moins. Cet acompte n'est récupérable en aucun cas et garantit le sérieux de l’engagement dans la formation à long terme.
+**Attention:** l’inscription aux cours à distance n'est valable que si elle est accompagnée du règlement d'un acompte de 1000 euros au moins. Cet acompte n'est récupérable en aucun cas et garantit le sérieux de l’engagement dans la formation à long terme.
 
 **N.B.** Des facilités de paiement (échelonnement) peuvent être octroyées exceptionnellement et pour des raisons valables étayées par des documents les attestant.

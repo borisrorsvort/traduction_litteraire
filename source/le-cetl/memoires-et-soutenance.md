@@ -4,7 +4,7 @@ title: Mémoires et soutenance
 
 ## Présentation du mémoire et soutenance – Consignes générales.
 
-1. Après deux années de formation, et si vous avez obtenu au moins 14/20 à l'examen de second niveau, vous aurez accès à la rédaction du mémoire qui seul vous donnera droit à un diplôme de fin d’études [(cf. Conception du diplôme)](/le-cetl/le-diplome)
+1. Après deux années de formation, et si vous avez obtenu au moins 14/20 à l’examen de second niveau, vous aurez accès à la rédaction du mémoire qui seul vous donnera droit à un diplôme de fin d’études [(cf. Conception du diplôme)](/le-cetl/le-diplome)
    Si vous ne souhaitez pas faire le mémoire, à défaut du diplôme vous recevrez une attestation mentionnant vos résultats pour les deux niveaux accomplis et réussis.
 
 2. Pour la rédaction du mémoire vous disposez de trois années. Au-delà de ce délai, un supplément de 500 euros sera exigé par année de dépassement.
@@ -23,7 +23,7 @@ title: Mémoires et soutenance
 
 6. Le mémoire doit être remis en 5 exemplaires. Sa structure doit répondre à des normes précises et doit comprendre impérativement les parties mentionnées dans le règlement (cf. documents ci-joints). Je vous rappelle que le mémoire est conçu comme un dossier destiné à convaincre un éditeur potentiel du bien-fondé de la publication de la traduction.
 
-7. La soutenance se fait devant un jury composé du directeur de mémoire, d'un autre traducteur spécialiste de la même langue de départ, de la directrice du CETL et d'un critique littéraire, représentant de maisons d’édition. Cette soutenance se déroule généralement à Paris, au Centre National du Livre (CNL), ou à la Sorbonne nouvelle, ou dans une autre ville selon le cas (dans un collège de traducteur ou dans une université). Les frais de déplacement ou de séjour de l'étudiant sont à la charge du candidat. Le CETL prend en charge les honoraires du jury, et leurs frais de déplacement et/ou de séjour. Les modalités de déroulement de la soutenance vous seront communiquées en temps utiles.
+7. La soutenance se fait devant un jury composé du directeur de mémoire, d'un autre traducteur spécialiste de la même langue de départ, de la directrice du CETL et d'un critique littéraire, représentant de maisons d’édition. Cette soutenance se déroule généralement à Paris, au Centre National du Livre (CNL), ou à la Sorbonne nouvelle, ou dans une autre ville selon le cas (dans un collège de traducteur ou dans une université). Les frais de déplacement ou de séjour de l’étudiant sont à la charge du candidat. Le CETL prend en charge les honoraires du jury, et leurs frais de déplacement et/ou de séjour. Les modalités de déroulement de la soutenance vous seront communiquées en temps utiles.
 
 ## Structure du mémoire
 

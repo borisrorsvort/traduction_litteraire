@@ -88,4 +88,4 @@ Saskia Brown — Roland Glasser – Sophie Lewis — Ros Schwartz – Jonathan K
 
 ## IV. Séminaires complémentaires
 
-– Jean-Claude **Lebrun** : Analyse textuelle de textes français contemporains – Jean-Claude **Lebrun** : Le monde livre — de l’édition en France – Olivier **Mannoni** : Droits d’auteur, pratique de l’édition, déontologie de la traduction – Denise **Laroutis** : préparation de textes pour l’édition
+– Jean-Claude **Lebrun**&nbsp;: Analyse textuelle de textes français contemporains – Jean-Claude **Lebrun**&nbsp;: Le monde livre — de l’édition en France – Olivier **Mannoni**&nbsp;: Droits d’auteur, pratique de l’édition, déontologie de la traduction – Denise **Laroutis**&nbsp;: préparation de textes pour l’édition

@@ -10,8 +10,8 @@ title: Contact
 
 Belgique
 
-**Tél. + fax&nbsp;:** +32 2 569 68 12
+**Tél. + fax&nbsp;:** +32 (0) 2 569 68 12
 
-**GSM&nbsp;:** +32 496 25 01 52
+**GSM&nbsp;:** +32 (0) 496 25 01 52
 
 **E-mail&nbsp;: ctls@skynet.be**

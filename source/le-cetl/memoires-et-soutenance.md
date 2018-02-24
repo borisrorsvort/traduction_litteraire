@@ -1,10 +1,10 @@
 ---
-title: Mémoires et soutenance
+title: Mémoires et soutenances
 ---
 
 ## Présentation du mémoire et soutenance – Consignes générales.
 
-1. Après deux années de formation, et si vous avez obtenu au moins 14/20 à l’examen de second niveau, vous aurez accès à la rédaction du mémoire qui seul vous donnera droit à un diplôme de fin d’études [(cf. Conception du diplôme)](/le-cetl/le-diplome)
+1. Après deux années de formation, et si vous avez obtenu au moins 14/20 à l’examen de second niveau, vous aurez accès à la rédaction du mémoire qui seul vous donnera droit à un diplôme de fin d’études [(cf. Conception du diplôme)](/le-cetl/le-diplome).
    Si vous ne souhaitez pas faire le mémoire, à défaut du diplôme vous recevrez une attestation mentionnant vos résultats pour les deux niveaux accomplis et réussis.
 
 2. Pour la rédaction du mémoire vous disposez de trois années. Au-delà de ce délai, un supplément de 500 euros sera exigé par année de dépassement.
@@ -19,11 +19,11 @@ title: Mémoires et soutenance
    * Soit vous décidez d’améliorer la première version et d’attendre d’avoir au moins 17 pour obtenir le diplôme.
 
 5. Si vous n’avez pas obtenu 14/20 au terme de la soutenance, vous avez droit à une "seconde chance". Vous devrez alors corriger le mémoire dans le sens indiqué par le jury et en tenant compte très précisément de ses remarques et commentaires (souvent notés dans le travail). Le travail revu et remanié sera envoyé sous forme électronique aux membres du jury. Il n’y aura pas de seconde soutenance.
-   Il n'y aura pas de troisième chance...
+   Il n’y aura pas de troisième chance…
 
-6. Le mémoire doit être remis en 5 exemplaires. Sa structure doit répondre à des normes précises et doit comprendre impérativement les parties mentionnées dans le règlement (cf. documents ci-joints). Je vous rappelle que le mémoire est conçu comme un dossier destiné à convaincre un éditeur potentiel du bien-fondé de la publication de la traduction.
+6. Le mémoire doit être remis en 5 exemplaires. Sa structure doit répondre à des normes précises et doit comprendre impérativement les parties mentionnées dans le règlement. Je vous rappelle que le mémoire est conçu comme un dossier destiné à convaincre un éditeur potentiel du bien-fondé de la publication de la traduction.
 
-7. La soutenance se fait devant un jury composé du directeur de mémoire, d'un autre traducteur spécialiste de la même langue de départ, de la directrice du CETL et d'un critique littéraire, représentant de maisons d’édition. Cette soutenance se déroule généralement à Paris, au Centre National du Livre (CNL), ou à la Sorbonne nouvelle, ou dans une autre ville selon le cas (dans un collège de traducteur ou dans une université). Les frais de déplacement ou de séjour de l’étudiant sont à la charge du candidat. Le CETL prend en charge les honoraires du jury, et leurs frais de déplacement et/ou de séjour. Les modalités de déroulement de la soutenance vous seront communiquées en temps utiles.
+7. La soutenance se fait devant un jury composé du directeur de mémoire, d’un autre traducteur spécialiste de la même langue de départ, de la directrice du CETL et d’un critique littéraire, représentant de maisons d’édition. Cette soutenance se déroule généralement à Paris, au Centre National du Livre (CNL), ou à la Sorbonne nouvelle, ou dans une autre ville selon le cas (dans un collège de traducteur ou dans une université). Les frais de déplacement ou de séjour de l’étudiant sont à la charge du candidat. Le CETL prend en charge les honoraires du jury, et leurs frais de déplacement et/ou de séjour. Les modalités de déroulement de la soutenance vous seront communiquées en temps utiles.
 
 ## Structure du mémoire
 
@@ -188,44 +188,6 @@ Soutenance au Centre national du livre( CNL) Paris
 
 Note obtenue&nbsp;: **80/100**
 
-## Soutances à venir
+---
 
-N.B.&nbsp;: toutes les soutenances sont publiques (sous réserve de l’accord de l’étudiant)
-
-### Anglais au français
-
-**Yveline Pailhoux**
-
-Sept nouvelles de Sara Baume, parues dans divers journaux et magazines entre 2011 et 2016
-
-Directrice de mémoire&nbsp;: Christine Raguet
-
-Soutenance au Centre National du livre (CNL), Paris
-
-Date&nbsp;: à fixer
-
-### Français au bosnien
-
-**Azra Pita Parente**
-
-Monsieur Ibrahim et les fleurs du Corran, Erich Emenaul Schmitt, (Albin Michel, 2001)
-
-Oscar et la dame rose, Eric Emmanuel Schmitt (Albin Michel, 2002)
-
-Directeur de mémoire&nbsp;: Aleksandar Grujicic
-
-Lieu de la soutenance&nbsp;: Sarajevo, Centre André Malraux
-
-Date&nbsp;: à fixer
-
-### Français au brésilien
-
-**Naiana Bueno**
-
-La grande montagne des contes chinois, Thierry Fabienne et Gendrin Catherine (Rue du Monde, 2008)
-
-Directeur de mémoire&nbsp;: Juan Bastos
-
-Soutenance par Vidéo-conférence
-
-Date&nbsp;: à fixer
+[Voir la liste des soutenances à venir](/events)

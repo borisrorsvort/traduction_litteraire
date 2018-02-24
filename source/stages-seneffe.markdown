@@ -11,9 +11,9 @@ illu: 'none'
 
 **Un peu de théorie et beaucoup de pratique (régie) pour maîtriser les techniques de sur-titrage au théâtre et à l’opéra.**
 
-**Cinq journées pour les travaux :** du lundi 2 au samedi 6 avril (arrivée le dimanche 1 au soir, départ le dimanche 7 avril au matin).
+**Cinq journées pour les travaux&nbsp;:** du lundi 2 au samedi 6 avril (arrivée le dimanche 1 au soir, départ le dimanche 7 avril au matin).
 
-**Coût (all inclusive = le stage et la pension complète comprenant trois repas et les boissons) : 850 €**
+**Coût (all inclusive = le stage et la pension complète comprenant trois repas et les boissons)&nbsp;: 850 €**
 
 Toutes les chambres luxueuses sont équipées du système Wi-Fi. Le Collège offre aussi l’accès 24 heures sur 24 à sa riche bibliothèque et à des locaux techniques super équipés (photocopieuse, scanner, matériel de projection etc.)
 
@@ -23,11 +23,11 @@ Toutes les chambres luxueuses sont équipées du système Wi-Fi. Le Collège off
 
 Au cours des trois dernières décennies, les échanges internationaux de spectacles lyriques et dramatiques, pratiqués par de nombreuses maisons de théâtre et d’opéra et par la plupart des grands et petits festivals, ont fait du sur-titrage un artisanat aujourd’hui indispensable au bon accueil des soirées en langues étrangères et une application originale de l’art de la traduction littéraire.
 
-Comme chaque année depuis 2006, Françoise Wuilmart accueille au domaine du château de Seneffe une douzaine de stagiaires et confie à Michel Bataillon et Pierre-Yves Diez le soin de leur apporter une formation initiale dans les trois domaines dont relève le sur-titrage : les techniques d’affichage d’un élément graphique dans l’espace de la représentation, la traduction d’un texte joué ou chanté et son découpage en fragments calibrés, l’affichage de ces titres qui aide le spectateur à suivre en temps réel l’action et les dialogues.
+Comme chaque année depuis 2006, Françoise Wuilmart accueille au domaine du château de Seneffe une douzaine de stagiaires et confie à Michel Bataillon et Pierre-Yves Diez le soin de leur apporter une formation initiale dans les trois domaines dont relève le sur-titrage&nbsp;: les techniques d’affichage d’un élément graphique dans l’espace de la représentation, la traduction d’un texte joué ou chanté et son découpage en fragments calibrés, l’affichage de ces titres qui aide le spectateur à suivre en temps réel l’action et les dialogues.
 
 Cette formation s’adresse à des personnes qui maîtrisent au moins une, et de préférence plusieurs langues étrangères, qui pratiquent la traduction littéraire, qui ont une connaissance des formes contemporaines de la représentation théâtrale et qui ont une bonne maîtrise de leur ordinateur portable, PC de préférence.
 
-Cette session d’avril 2018 s’inscrit dans le droit fil des dix précédentes où une centaine de stagiaires ont découvert les exigences concrètes de cette nouvelle discipline et ont depuis diversifié leurs pratiques de la traduction. Ce stage sera toutefois différents des précédents : iltiendra nécessairement compte de l’évolution très rapide des techniques de projection et d’affichage sur des surfaces graphiques connectées ainsi quedes améliorations apportées au cours des deux dernières années aux logiciels spécifiques au sur-titrage.
+Cette session d’avril 2018 s’inscrit dans le droit fil des dix précédentes où une centaine de stagiaires ont découvert les exigences concrètes de cette nouvelle discipline et ont depuis diversifié leurs pratiques de la traduction. Ce stage sera toutefois différents des précédents&nbsp;: iltiendra nécessairement compte de l’évolution très rapide des techniques de projection et d’affichage sur des surfaces graphiques connectées ainsi quedes améliorations apportées au cours des deux dernières années aux logiciels spécifiques au sur-titrage.
 
 Et puis, la rédaction par Michel Bataillon, Pierre-Yves Diez et Laurent Muhleisen d’un Guide du sur-titrage au théâtre, publié et mis en ligne en 2016 par la Maison Antoine-Vitez, Centre international de la traduction théâtrale, permet désormais aux stagiaires d’acquérir une connaissance préalable des grands principes théoriques et d’aborder plus rapidement les exercices pratiques du stage.
 
@@ -45,8 +45,8 @@ Michel Bataillon a l’intention de proposer aux germanistes de travailler, entr
 
 L’objectif du stage est d’abord de comprendre en quoi la traduction théâtrale diffère de la traduction littéraire et en quoi la rédaction et le découpage des sur-titres diffèrent de la traduction théâtrale pour la scène. Et ensuite de s’exercer pendant deux ou trois jours à la manipulation d’un logiciel sur un texte dramatique et un spectacle. Un stagiaire, s’il est bon traducteur, pourra se lancer alors dans l’écriture d’un sur-titrage et il aura aussi une petite expérience de la régie des titres. À chaque stage, un ou deux stagiaires ont découvert qu’ils avaient les qualités qu’exige "le topage" et ont ensuite acquis assez rapidement une expérience professionnelle dans ce domaine directement lié à la scène et au jeu de l’acteur.
 
-Le coût de cette formation de cinq journées, avec hébergement tout confort et pension complète assurée par le chef Claude Pohlig, s’élève à 800 euros. Pour que le stage ait lieu, il faut que douze stagiaires s’inscrivent. Si cette condition n’était pas remplie – ce qui, en dix ans, ne s’est jamais produit – les organisateurs se verraient alors contraints de l’annuler.
+Le coût de cette formation de cinq journées, avec hébergement tout confort et pension complète assurée par le chef Claude Pohlig, s’élève à 850 euros. Pour que le stage ait lieu, il faut que douze stagiaires s’inscrivent. Si cette condition n’était pas remplie – ce qui, en dix ans, ne s’est jamais produit – les organisateurs se verraient alors contraints de l’annuler.
 
 ## Inscriptions
 
-Pour tout renseignement supplémentaire veuillez écrire au ctls@skynet.be ou téléphoner à la directrice du collège : Françoise Wuilmart, +32 (0) 496 25 01 52
+Pour tout renseignement supplémentaire veuillez écrire au ctls@skynet.be ou téléphoner à la directrice du collège&nbsp;: Françoise Wuilmart, +32 (0) 496 25 01 52

@@ -15,7 +15,7 @@ Parti du principe que la traduction littéraire, qui est aussi un art, ne peut s
 
 Le CETL confie donc aux plus grands praticiens de la traduction littéraire le soin de communiquer leur savoir-faire aux apprenants.
 
-Ce transfert s’opère par le biais d’exercices proposés par le spécialiste : uniquement des extraits de textes qu’il a traduits lui-même. La correction détaillée et individualisée de chaque exercice a pour but d’objectiver les « erreurs » ou les « faiblesses » avec une extrême précision ; l’impressionnisme subjectif est ici banni. L’étudiant traduira une série de textes en provenance d’une douzaine au moins de formateurs différents.
+Ce transfert s’opère par le biais d’exercices proposés par le spécialiste&nbsp;: uniquement des extraits de textes qu’il a traduits lui-même. La correction détaillée et individualisée de chaque exercice a pour but d’objectiver les «&nbsp;erreurs&nbsp;» ou les «&nbsp;faiblesses&nbsp;» avec une extrême précision ; l’impressionnisme subjectif est ici banni. L’étudiant traduira une série de textes en provenance d’une douzaine au moins de formateurs différents.
 
 Dans un premier temps l’enseignement vise à inculquer les règles de base et les techniques fondamentales de la traduction littéraire.
 

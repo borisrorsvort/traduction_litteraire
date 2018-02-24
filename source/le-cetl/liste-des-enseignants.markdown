@@ -4,7 +4,7 @@ title: Liste des enseignants
 
 Toutes les informations concernant la plupart des traducteurs de cette liste, notamment les auteurs qu’ils traduisent, peuvent se trouver sur le site de l’ATLF ([www.ATLF.org](http://www.ATLF.org))
 
-**ATTENTION : Toute combinaison linguistique est envisageable sur demande et dans la mesure des possibilités offertes au CETL ; ci-dessous la liste des enseignants des combinaisons les plus demandées à ce jour.**
+**ATTENTION&nbsp;: Toute combinaison linguistique est envisageable sur demande et dans la mesure des possibilités offertes au CETL ; ci-dessous la liste des enseignants des combinaisons les plus demandées à ce jour.**
 
 ## I. Ateliers vers le français
 

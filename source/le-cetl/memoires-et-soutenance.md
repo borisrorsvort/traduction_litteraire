@@ -11,8 +11,8 @@ title: Mémoires et soutenance
 
 3. Vous devrez impérativement travailler sous la houlette d’un directeur de mémoire, qui sera un traducteur littéraire professionnel reconnu, de préférence enseignant au CETL. Vous pourrez choisir vous-même votre patron de mémoire, mais ce choix devra être avalisé par la direction du CETL.
 
-4. Pour réussir le mémoire, il faut obtenir au moins 14/20. Pour que le travail soit publiable, il faut obtenir au moins 17/20. Si vous n’avez pas 17 : vous pourrez revoir et améliorer votre traduction en suivant les consignes du jury.
-   Dans ce cas, l’alternative est donc :
+4. Pour réussir le mémoire, il faut obtenir au moins 14/20. Pour que le travail soit publiable, il faut obtenir au moins 17/20. Si vous n’avez pas 17&nbsp;: vous pourrez revoir et améliorer votre traduction en suivant les consignes du jury.
+   Dans ce cas, l’alternative est donc&nbsp;:
 
    * Soit vous réclamez votre diplôme juste après la soutenance, avec la note de 14 au moins qui y sera mentionnée.
 
@@ -29,16 +29,16 @@ title: Mémoires et soutenance
 
 1. Table des matières
 
-2. Introduction :
+2. Introduction&nbsp;:
    Présentation de l’auteur, évocation de son (éventuel) succès, dans son pays et/ou à l’étranger (joindre de préférence des articles de presse dans les annexes).
-   Résumé de l’ouvrage : le situer dans son contexte propre et ses éventuelles filiations, en faire une brève analyse et évoquer les raisons d’un accueil favorable dans la culture de la langue cible.
+   Résumé de l’ouvrage&nbsp;: le situer dans son contexte propre et ses éventuelles filiations, en faire une brève analyse et évoquer les raisons d’un accueil favorable dans la culture de la langue cible.
 
-3. Traduction : le texte original doit figurer sur la page de gauche et la traduction (correspondant exactement) sur la page de droite, une soixantaine de pages au moins de 1500 signes.
+3. Traduction&nbsp;: le texte original doit figurer sur la page de gauche et la traduction (correspondant exactement) sur la page de droite, une soixantaine de pages au moins de 1500 signes.
 
-4. Commentaires de traduction : le chapitre sans doute le plus important, après la traduction elle-même. Il doit faire état de vos réflexions pour ainsi dire « traductologiques » sur les difficultés générales et ponctuelles rencontrées lors de votre travail. Il proposera donc une analyse globale des difficultés inhérentes au texte lui-même (par exemple au contexte d’écriture, au registre, au style, au lexique etc.) et passera en revue les difficultés ponctuelles et vos choix justifiés.
-   Attention : cette partie ne doit nullement parler des difficultés de linguistique contrastive générale (passage d’une langue à l’autre hors contexte), mais des difficultés spécifiques du texte et de l’auteur.
+4. Commentaires de traduction&nbsp;: le chapitre sans doute le plus important, après la traduction elle-même. Il doit faire état de vos réflexions pour ainsi dire «&nbsp;traductologiques&nbsp;» sur les difficultés générales et ponctuelles rencontrées lors de votre travail. Il proposera donc une analyse globale des difficultés inhérentes au texte lui-même (par exemple au contexte d’écriture, au registre, au style, au lexique etc.) et passera en revue les difficultés ponctuelles et vos choix justifiés.
+   Attention&nbsp;: cette partie ne doit nullement parler des difficultés de linguistique contrastive générale (passage d’une langue à l’autre hors contexte), mais des difficultés spécifiques du texte et de l’auteur.
 
-5. Bibliographie : elle mentionnera tous les ouvrages du même auteur, y compris leurs traductions existantes, ainsi que tous les manuels ou sites Internet consultés pour le travail.
+5. Bibliographie&nbsp;: elle mentionnera tous les ouvrages du même auteur, y compris leurs traductions existantes, ainsi que tous les manuels ou sites Internet consultés pour le travail.
 
 6. Annexes (articles de presse etc.), facultatif.
 
@@ -50,11 +50,11 @@ title: Mémoires et soutenance
 
 Traduction de trente-quatre lettres (1907-1927) de Virginia Woolf à sa sœur Vanessa Bell Selected diaries, Vintage Classics, tiré de la correspondance en six volumes, The Hogarth Press/Chatto & Windus, 1975-1980 ).
 
-Directrice de mémoire : Anne-Marie Smith di Biasio
+Directrice de mémoire&nbsp;: Anne-Marie Smith di Biasio
 
 Soutenance au Centre National du Livre (CNL) Paris.
 
-Note obtenue : **87/100**
+Note obtenue&nbsp;: **87/100**
 
 ---
 
@@ -63,22 +63,22 @@ Note obtenue : **87/100**
 Traduction de quatre nouvelles tirées du recueil intitulé Other People We Married, de Emma Straub
 (Five Chapters Books, 2011, New York)
 
-Directeur de mémoire : Daniel Lemoine
+Directeur de mémoire&nbsp;: Daniel Lemoine
 
 Soutenance au Centre National du Livre (CNL) Paris
 
-Note obtenue : **98/100 (exceptionnel !)**
+Note obtenue&nbsp;: **98/100 (exceptionnel !)**
 
 ### ESPAGNOL au français
 
 **Annie Vignal**
-Traduction des chapitres I, II et X du roman d’Oscar Collazos « Rancoeurs » (« Rancor », Seix Barral Biblioteca Breve, Tercera Edicion, 2006)
+Traduction des chapitres I, II et X du roman d’Oscar Collazos «&nbsp;Rancoeurs&nbsp;» («&nbsp;Rancor&nbsp;», Seix Barral Biblioteca Breve, Tercera Edicion, 2006)
 
-Directeur de mémoire : Albert Bensoussan
+Directeur de mémoire&nbsp;: Albert Bensoussan
 
 Soutenance à l’Institut anglophone, Université Sorbonne nouvelle, Paris
 
-Note obtenue : **85/100**
+Note obtenue&nbsp;: **85/100**
 
 ---
 
@@ -86,11 +86,11 @@ Note obtenue : **85/100**
 
 Montaner 18 (Chapitres I, II et III), José Antonio Garriga Vela.
 
-Directeur de mémoire : Georges Tyras
+Directeur de mémoire&nbsp;: Georges Tyras
 
 Soutenance à l’Institut anglophone, Université Sorbonne nouvelle, Paris
 
-Note obtenue : **90/100**
+Note obtenue&nbsp;: **90/100**
 
 ### ALLEMAND au français
 
@@ -98,11 +98,11 @@ Note obtenue : **90/100**
 
 Anmut und Gnade (p. 10 à 72) Wolfgang Schlüter
 
-Directeur de mémoire : Marc de Launay
+Directeur de mémoire&nbsp;: Marc de Launay
 
 Soutenance à l’Institut anglophone, Université Sorbonne nouvelle, Paris
 
-Note obtenue : **90/100**
+Note obtenue&nbsp;: **90/100**
 
 ---
 
@@ -110,11 +110,11 @@ Note obtenue : **90/100**
 
 Fremde Signale, de Katarina FAber (Bilgerverlag, 2008)
 
-Directrice de mémoire : Marie-Claude Auger
+Directrice de mémoire&nbsp;: Marie-Claude Auger
 
 Soutenance au Centre national du livre (CNL) Paris
 
-Note obtenue : **82/100**
+Note obtenue&nbsp;: **82/100**
 
 ### SUEDOIS au français
 
@@ -122,11 +122,11 @@ Note obtenue : **82/100**
 
 Min Mormor Hälsar och Säger Förlat, traduction des chapitres 1 à 6, Fredrik Backman –Ed. Forum 2013
 
-Directrice de mémoire : Anna Gibson
+Directrice de mémoire&nbsp;: Anna Gibson
 
 Soutenance au Centre national du livre (CNL) Paris
 
-Note obtenue : **70/100**
+Note obtenue&nbsp;: **70/100**
 
 ### ITALIEN au français
 
@@ -134,23 +134,23 @@ Note obtenue : **70/100**
 
 L’Abusivo, Antonio Franchini, Marsilio 2001, traduction des pages 7 à 70
 
-Directeur de mémoire : Vincent Raynaud
+Directeur de mémoire&nbsp;: Vincent Raynaud
 
 Soutenance au Centre National du Livre( CNL) Paris
 
-Note obtenue : **75/100**
+Note obtenue&nbsp;: **75/100**
 
 ### RUSSE au français
 
 **Fanchon Deligne**
 
-Présentation et traduction de deux textes autobiographiques de Vladislav Khodassevtich : Prime Enfance (1933) et Le Couloir blanc (1925)
+Présentation et traduction de deux textes autobiographiques de Vladislav Khodassevtich&nbsp;: Prime Enfance (1933) et Le Couloir blanc (1925)
 
-Directeur de mémoire : Anne-Marie Tatsis-Botton
+Directeur de mémoire&nbsp;: Anne-Marie Tatsis-Botton
 
 Soutenance au Collège des traducteurs d’Arles (CITL)
 
-Note obtenue : **94/100**
+Note obtenue&nbsp;: **94/100**
 
 ### FRANÇAIS au bosnien
 
@@ -158,11 +158,11 @@ Note obtenue : **94/100**
 
 Sélection de quatorze contes de Maurice Carême
 
-Directeur de mémoire : Radivoje Konstantinovic
+Directeur de mémoire&nbsp;: Radivoje Konstantinovic
 
 Soutenance à l’Université de Belgrade, Faculté des lettres romanes.
 
-Note obtenue : **95/100**
+Note obtenue&nbsp;: **95/100**
 
 ---
 
@@ -170,11 +170,11 @@ Note obtenue : **95/100**
 
 Les Cavaliers, Joseph Kessel (pages 13 à 88)
 
-Directrice de mémoire : Tijana Popovic
+Directrice de mémoire&nbsp;: Tijana Popovic
 
 Soutenance à l’ISTI, Bruxelles
 
-Note obtenue : **95/100**
+Note obtenue&nbsp;: **95/100**
 
 ### FRANÇAIS à l’allemand
 
@@ -182,15 +182,15 @@ Note obtenue : **95/100**
 
 Joseph, Marie-Hélène Lafffon, Buchet Chastel, Paris 2014
 
-Directeur de mémoire : Dieter Hornig
+Directeur de mémoire&nbsp;: Dieter Hornig
 
 Soutenance au Centre national du livre( CNL) Paris
 
-Note obtenue : **80/100**
+Note obtenue&nbsp;: **80/100**
 
 ## Soutances à venir
 
-N.B. : toutes les soutenances sont publiques (sous réserve de l’accord de l’étudiant)
+N.B.&nbsp;: toutes les soutenances sont publiques (sous réserve de l’accord de l’étudiant)
 
 ### Anglais au français
 
@@ -198,11 +198,11 @@ N.B. : toutes les soutenances sont publiques (sous réserve de l’accord de l�
 
 Sept nouvelles de Sara Baume, parues dans divers journaux et magazines entre 2011 et 2016
 
-Directrice de mémoire : Christine Raguet
+Directrice de mémoire&nbsp;: Christine Raguet
 
 Soutenance au Centre National du livre (CNL), Paris
 
-Date : à fixer
+Date&nbsp;: à fixer
 
 ### Français au bosnien
 
@@ -212,11 +212,11 @@ Monsieur Ibrahim et les fleurs du Corran, Erich Emenaul Schmitt, (Albin Michel, 
 
 Oscar et la dame rose, Eric Emmanuel Schmitt (Albin Michel, 2002)
 
-Directeur de mémoire : Aleksandar Grujicic
+Directeur de mémoire&nbsp;: Aleksandar Grujicic
 
-Lieu de la soutenance : Sarajevo, Centre André Malraux
+Lieu de la soutenance&nbsp;: Sarajevo, Centre André Malraux
 
-Date : à fixer
+Date&nbsp;: à fixer
 
 ### Français au brésilien
 
@@ -224,8 +224,8 @@ Date : à fixer
 
 La grande montagne des contes chinois, Thierry Fabienne et Gendrin Catherine (Rue du Monde, 2008)
 
-Directeur de mémoire : Juan Bastos
+Directeur de mémoire&nbsp;: Juan Bastos
 
 Soutenance par Vidéo-conférence
 
-Date : à fixer
+Date&nbsp;: à fixer

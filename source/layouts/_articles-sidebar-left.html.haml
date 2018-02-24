@@ -2,6 +2,7 @@
   %ul#menu-submenu.menu
     %li{nav_active('/articles')}
       = link_to "Tous les articles", '/articles'
-    - blog.tags.each do |tag, articles|
-      %li{nav_active(tag_path(tag))}
-        = link_to "#{tag} (#{articles.size})", tag_path(tag)
+    - if blog.tags.length > 1
+      - blog.tags.each do |tag, articles|
+        %li{nav_active(tag_path(tag))}
+          = link_to "#{tag} (#{articles.size})", tag_path(tag)

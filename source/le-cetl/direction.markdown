@@ -19,9 +19,9 @@ _Mère de deux enfants (une fille médecin, un fils psychologue)_
 
 * **Traductrice littéraire** (auprès des Editions Gallimard, Actes Sud, La Différence, Le Seuil, Flammarion, Labor).
 
-- **Fondatrice et directrice** du _Centre Européen de Traduction littéraire_ (C.E.T.L.), cycle postuniversitaire de formation en traduction littéraire (depuis 1989).Website : www.traduction-litteraire.com
+- **Fondatrice et directrice** du _Centre Européen de Traduction littéraire_ (C.E.T.L.), cycle postuniversitaire de formation en traduction littéraire (depuis 1989).Website&nbsp;: www.traduction-litteraire.com
 
-* **Fondatrice et directrice** du _Collège européen des Traducteurs littéraires de Seneffe_ (depuis juin 1996).Website : www.ctls.be
+* **Fondatrice et directrice** du _Collège européen des Traducteurs littéraires de Seneffe_ (depuis juin 1996).Website&nbsp;: www.ctls.be
 
 - **Membre fondateur du CEATL** (_Conseil européen des associations de traducteurs littéraire_) et représentante de la Belgique francophone au sein de cette association de 28 membres européens.
 
@@ -37,7 +37,7 @@ _Mère de deux enfants (une fille médecin, un fils psychologue)_
 
 ## PUBLICATIONS
 
-### Une trentaine d’articles et d’essais sur la traduction littéraire et la pédagogie de la traduction, publiés dans les revues :
+### Une trentaine d’articles et d’essais sur la traduction littéraire et la pédagogie de la traduction, publiés dans les revues&nbsp;:
 
 _Babel, Équivalences, Translittérature, META, Palimpsestes, Rilune, Les Cahiers de la Sorbonne_, etc. et dans les actes de colloques.
 
@@ -59,9 +59,9 @@ Une vingtaine d’articles ont été traduits et publiés dans plusieurs langues
 
 * Pour les Editions _La Différence_ : _Jeudi 15h30_, de **Kristien Hemmerechts**
 
-* **SAID** : « _Là où je meurs est mon exil_ », recueil de poèmes sur l’exil (allemand au français)
+* **SAID** : «&nbsp;_Là où je meurs est mon exil_&nbsp;», recueil de poèmes sur l’exil (allemand au français)
 
-* Pour les éditions _Gallimard_, collections Témoins: *Une Femme à Berlin* , Anonyme, paru le 9 novembre 2006 – mai 2013 : **100 000 exemplaires** (Folio)
+* Pour les éditions _Gallimard_, collections Témoins: *Une Femme à Berlin* , Anonyme, paru le 9 novembre 2006 – mai 2013&nbsp;: **100 000 exemplaires** (Folio)
 
 * Pour les éditions _Flammarion_ :
 
@@ -83,15 +83,15 @@ Une vingtaine d’articles ont été traduits et publiés dans plusieurs langues
 
   * _Substitutions_, de **Tania Carver**, novembre 2009 (de l’anglais au français)
 
-  * Nombreuses traductions culturelles : essais sur la philosophie de l’art, sur la psychologie et la psychanalyse, livret d’opéra, catalogues d’art
+  * Nombreuses traductions culturelles : essais sur la philosophie de **l’art**, sur la psychologie et la psychanalyse, livret d’opéra, catalogues d’art
 
-* Pour les éditions Robert Laffont (collection Bouquins), février 2013 :
+* Pour les éditions Robert Laffont (collection Bouquins), février 2013&nbsp;:
 
   * **Stefan Zweig:** Le Joueur d’échecs / Vingt-quatre heures de la vie d’une femme / La Nuit fantastique / La Croix/ La Marche / La Collection invisible / Histoire au Crépuscule / La Contrainte / Les sœurs (dis)semblables.
 
 * Depuis avril 2013 , pour les éditions Verdier :
 
-  * chargée de la coordination du chapitre Le Traducteur : tome III de Histoire des traductions en langue française, à paraître en 2014.
+  * chargée de la coordination du chapitre Le Traducteur&nbsp;: tome III de Histoire des traductions en langue française, à paraître en 2018.
 
 * **Nombreuses traductions culturelles:** essais sur la philosophie de **l’art**, sur la **psychologie et la psychanalyse, livret d’opéra, catalogues d’art**.
 

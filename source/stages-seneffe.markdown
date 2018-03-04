@@ -11,7 +11,7 @@ illu: 'none'
 
 **Un peu de théorie et beaucoup de pratique (régie) pour maîtriser les techniques de sur-titrage au théâtre et à l’opéra.**
 
-**Cinq journées pour les travaux&nbsp;:** du mardi 5 au samedi 9 juin (arrivée le lundi 4 juin au soir, départ le dimanche 10 juin au matin).
+**Cinq journées pour les travaux&nbsp;: du mardi 5 au samedi 9 juin (arrivée le lundi 4 juin au soir, départ le dimanche 10 juin au matin).**
 
 **Coût (all inclusive = le stage et la pension complète comprenant le logement, trois repas et les boissons)&nbsp;: 850 €**
 
@@ -19,7 +19,7 @@ Toutes les chambres luxueuses sont équipées du système Wi-Fi. Le Collège off
 
 ## Présentation du stage par Michel Bataillon, président de La Maison Antoine Vitez
 
-### Stage d’initiation au sur-titrage de spectacles du au 4 au 10 juin 2018
+### Stage d’initiation au sur-titrage de spectacles du 4 au 10 juin 2018
 
 Au cours des trois dernières décennies, les échanges internationaux de spectacles lyriques et dramatiques, pratiqués par de nombreuses maisons de théâtre et d’opéra et par la plupart des grands et petits festivals, ont fait du sur-titrage un artisanat aujourd’hui indispensable au bon accueil des soirées en langues étrangères et une application originale de l’art de la traduction littéraire.
 
@@ -33,7 +33,7 @@ Et puis, la rédaction par Michel Bataillon, Pierre-Yves Diez et Laurent Muhleis
 
 Pierre-Yves Diez est concepteur du logiciel Torticoli et Michel Bataillon est traducteur d’allemand, conseiller artistique, et président de la Maison Antoine Vitez. Au fil des ans, le linguiste Bataillon a assimilé peu à peu les données techniques élémentaires et indispensables, et le technicien Diez, au contact d’une multitude de langues, est maintenant lui aussi de très bon conseil sur le découpage d’un texte joué, même dans des langues qu’il ne parle pas.
 
-Au cours d’une première journée, le mardi, ils commencent par une présentation du sur-titrage sous ses aspects littéraires et linguistiques, esthétiques et théâtraux. Puis ils décrivent la chaîne des étapes techniques et la gamme des appareils disponibles dans les théâtres et sur le marché. Dans la seconde partie de la journée, les stagiaires choisissent en fonction de leurs langues et de leurs goûts un ou deux spectacles qui leur serviront dès le lendemain comme support de travaux pratiques.
+Au cours d’une première journée, ils commencent par une présentation du sur-titrage sous ses aspects littéraires et linguistiques, esthétiques et théâtraux. Puis ils décrivent la chaîne des étapes techniques et la gamme des appareils disponibles dans les théâtres et sur le marché. Dans la seconde partie de la journée, les stagiaires choisissent en fonction de leurs langues et de leurs goûts un ou deux spectacles qui leur serviront dès le lendemain comme support de travaux pratiques.
 
 La vidéothèque de Pierre Yves Diez, des captations sous forme numérique ou DVD, est composée de spectacles étrangers présentés en France dans les dernières années dont on possède les traductions françaises éditées et le texte dans la langue jouée – anglais, allemand, italien, espagnols, portugais, russes… Il est bien que dès le deuxième jour, les stagiaires puissent se mettre au travail sur un extrait de spectacle qu’ils ont choisis.
 

@@ -52,7 +52,7 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 ### 2. FRANÇAIS — Anglais
 
-Saskia Brown — Roland Glasser – Sophie Lewis — Ros Schwartz – Jnathan Kaplanski – Donald Nicholson — Trista Selous — Sandra Smith — Shelley Tepperman –
+Saskia Brown — Roland Glasser – Sophie Lewis — Ros Schwartz – Jonathan Kaplanski – Donald Nicholson — Trista Selous — Sandra Smith — Shelley Tepperman –
 
 ### 3. FRANÇAIS — Allemand
 

@@ -2,9 +2,9 @@ categories:
   - label: Partenaires
     items:
       - label: Atlas
-        href: http://www.atlas-citl.org/
+        href: http://www.atlas-citl.org/blog/
       - label: ATLF - Association des traducteurs littéraires de France
-        href: http://www.atlf.org/
+        href: http://www.atlf.org/blog/
       - label: CEATL
         href: http://www.ceatl.eu/
       - label: CTLS - Collège européen des traducteurs littéraires de Seneffe
@@ -12,7 +12,9 @@ categories:
       - label: ETL - CNL
         href: http://www.etl-cnl.fr/
       - label: ISTI - Institut supérieur de Traducteurs et Interprètes
-        href: http://www.isti.eu/
+        href: https://ti.ulb.ac.be/
+      - label: ETL - Asfored
+        href: https://asfored.org/etl
   - label: Presse
     items:
       - label: Dossier de Presse Petra
@@ -25,3 +27,7 @@ categories:
         href: http://www.facebook.com/pages/Dilbeek-Belgium/CETL-Centre-Europeen-de-Traduction-Litteraire/86638682837
       - label: Suivez le CETL sur Twitter
         href: http://www.twitter.com/cetl_traduction
+  - label: Autre
+    items:
+      - label: Edith Soonckindt
+        href: https://soonckindt.com

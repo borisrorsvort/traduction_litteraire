@@ -13,16 +13,6 @@ module PageTitleHelper
   end
 
   def render_page_title
-    title = current_page.data.title
-
-    if title.nil? || title.empty?
-      raise RuntimeError, "You must provide a page title for your page!"
-    end
-
-    if current_resource.url == "/"
-      site_title + title_separator + title
-    else
-      title + title_separator + site_title
-    end
+    current_page.data.title || data.config.site.title
   end
 end

@@ -60,3 +60,5 @@ configure :build do
   activate :gzip
   activate :asset_hash, ignore: [/images\/(.*\.png|.*\.svg)/]
 end
+
+Haml::TempleEngine.disable_option_validator!

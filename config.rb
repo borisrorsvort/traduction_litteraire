@@ -7,26 +7,29 @@ helpers do
   # In case you require helpers within `config.rb`, they can be added here.
 end
 
+activate :autoprefixer do |prefix|
+  prefix.browsers = "last 2 versions"
+end
 
-# --------------------------------------------------------------------------------------------------
-# Extensions
-# --------------------------------------------------------------------------------------------------
+page '/*.xml', layout: false
+page '/*.json', layout: false
+page '/*.txt', layout: false
 
 # Use LiveReload
-activate :livereload
+# activate :livereload
 
 # Use Search Engine Sitemap
-set :url_root, data.config.site.root_url
+set :url_root, "http://www.traduction-litteraire.com"
 activate :search_engine_sitemap
 
 # --------------------------------------------------------------------------------------------------
 # Paths
 # --------------------------------------------------------------------------------------------------
 
-set :css_dir,     'stylesheets'
-set :fonts_dir,   'fonts'
-set :images_dir,  'images'
-set :js_dir,      'javascripts'
+# set :css_dir,     'stylesheets'
+# set :fonts_dir,   'fonts'
+# set :images_dir,  'images'
+# set :js_dir,      'javascripts'
 
 activate :blog do |blog|
   blog.prefix = 'articles'
@@ -39,14 +42,6 @@ activate :blog do |blog|
   blog.page_link = "page/{num}"
 end
 
-sass_dir = 'source/stylesheets', 'bower_components'
-
-after_configuration do
-  @bower_config = JSON.parse(IO.read("#{root}/.bowerrc"))
-  sprockets.append_path File.join "#{root}", @bower_config["directory"]
-end
-
-activate :bower # User Bower to manage vendor scripts
 activate :directory_indexes # Pretty URLs - See https://middlemanapp.com/advanced/pretty_urls/
 activate :relative_assets
 set :relative_links, true
@@ -56,33 +51,18 @@ page "/feed.xml", layout: false
 # --------------------------------------------------------------------------------------------------
 # Build configuration
 # --------------------------------------------------------------------------------------------------
+set :markdown_engine, :redcarpet
+set :haml, { :format => :html5 }
 
 configure :build do
-
-  ignore 'stylesheets/vendor/*'
-  ignore 'javascripts/vendor/*'
   activate :minify_css
   activate :minify_javascript
-  activate :minify_html, {
-    remove_quotes: false,
-    remove_input_attributes: false
-  }
-
-  # Compress images (default)
-  require "middleman-smusher"
-  activate :smusher
   activate :gzip
-  # Compress ALL images (advanced)
-  # Before activating the below, follow setup instructions on https://github.com/toy/image_optim
-  # activate :imageoptim do |options|
-  #   options.pngout = false # set to true when pngout is also installed
-  # end
-
-  # Uniquely-named assets (cache buster)
-  # Exception: svg & png in images folder because they need to be interchangeable by JS
   activate :asset_hash, ignore: [/images\/(.*\.png|.*\.svg)/]
 end
 
-activate :deploy do |deploy|
-  deploy.method = :git
+activate :gh_pages do |gh_pages|
+  gh_pages.remote = 'git@github.com:borisrorsvort/traduction_litteraire.git'
 end
+
+Haml::TempleEngine.disable_option_validator!

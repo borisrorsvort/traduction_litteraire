@@ -17,18 +17,18 @@ module ActiveNavHelper
   def nav_active(url)
     if (url.instance_of? String)
       if current_resource.url == url_for(url)
-        {class: active_navigation_item_class}
+        active_navigation_item_class
       else
-        {}
+        ""
       end
     elsif (url.instance_of? Array)
       if url.map { |url| url_for(url) }.include?(current_resource.url)
-        {class: active_navigation_item_class}
+        active_navigation_item_class
       else
-        {}
+        ""
       end
     else
-      {}
+      ""
     end
   end
 end

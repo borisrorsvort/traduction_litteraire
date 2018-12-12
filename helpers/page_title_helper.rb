@@ -1,9 +1,6 @@
-module PageTitleHelper
-  # Sets the page title which is composed of 3 elements
-  #   1) The Site name
-  #   2) A separator
-  #   3) The title of each page
+# frozen_string_literal: true
 
+module PageTitleHelper
   def site_title
     data.config.site.title
   end
@@ -13,6 +10,6 @@ module PageTitleHelper
   end
 
   def render_page_title
-    current_page.data.title || data.config.site.title
+    current_page.data.title + title_separator + site_title
   end
 end

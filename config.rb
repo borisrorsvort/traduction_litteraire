@@ -19,8 +19,8 @@ page '/*.txt', layout: false
 # activate :livereload
 
 # Use Search Engine Sitemap
-# set :url_root, data.config.site.root_url
-# activate :search_engine_sitemap
+set :url_root, "http://www.traduction-litteraire.com"
+activate :search_engine_sitemap
 
 # --------------------------------------------------------------------------------------------------
 # Paths
@@ -59,6 +59,10 @@ configure :build do
   activate :minify_javascript
   activate :gzip
   activate :asset_hash, ignore: [/images\/(.*\.png|.*\.svg)/]
+end
+
+activate :gh_pages do |gh_pages|
+  gh_pages.remote = 'git@github.com:borisrorsvort/traduction_litteraire.git'
 end
 
 Haml::TempleEngine.disable_option_validator!

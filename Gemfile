@@ -5,6 +5,8 @@ gem 'middleman-autoprefixer', '~> 2.7'
 gem "bootstrap-sass", require: false
 gem "middleman-livereload"
 gem 'middleman-search_engine_sitemap'
+gem 'middleman-gh_pages'
+gem 'middleman-sitemap-ping'
 gem "builder", "~> 3.0"
 gem "redcarpet"
 gem "byebug"

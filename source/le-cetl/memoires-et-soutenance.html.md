@@ -14,9 +14,9 @@ title: Mémoires et soutenances
 4.  Pour réussir le mémoire, il faut obtenir au moins 14/20. Pour que le travail soit publiable, il faut obtenir au moins 17/20. Si vous n’avez pas 17&nbsp;: vous pourrez revoir et améliorer votre traduction en suivant les consignes du jury.
     Dans ce cas, l’alternative est donc&nbsp;:
 
-    - Soit vous réclamez votre diplôme juste après la soutenance, avec la note de 14 au moins qui y sera mentionnée.
+- Soit vous réclamez votre diplôme juste après la soutenance, avec la note de 14 au moins qui y sera mentionnée.
 
-    - Soit vous décidez d’améliorer la première version et d’attendre d’avoir au moins 17 pour obtenir le diplôme.
+- Soit vous décidez d’améliorer la première version et d’attendre d’avoir au moins 17 pour obtenir le diplôme.
 
 5.  Si vous n’avez pas obtenu 14/20 au terme de la soutenance, vous avez droit à une "seconde chance". Vous devrez alors corriger le mémoire dans le sens indiqué par le jury et en tenant compte très précisément de ses remarques et commentaires (souvent notés dans le travail). Le travail revu et remanié sera envoyé sous forme électronique aux membres du jury. Il n’y aura pas de seconde soutenance.
     Il n’y aura pas de troisième chance…
@@ -187,18 +187,6 @@ Directrice de mémoire&nbsp;: Tijana Popovic
 Soutenance à l’ISTI, Bruxelles
 
 Note obtenue&nbsp;: **95/100**
-
-### FRANÇAIS à l’allemand
-
-**Régine Schaaf**
-
-Joseph, Marie-Hélène Lafffon, Buchet Chastel, Paris 2014
-
-Directeur de mémoire&nbsp;: Dieter Hornig
-
-Soutenance au Centre national du livre( CNL) Paris
-
-Note obtenue&nbsp;: **80/100**
 
 ---
 

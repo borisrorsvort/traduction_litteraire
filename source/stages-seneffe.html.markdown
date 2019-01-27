@@ -1,13 +1,13 @@
 ---
 title: Stages à Seneffe
-illu: 'none'
+illu: "none"
 ---
 
 ![Collège de seneffe](illus/college-seneffe-big.jpg)
 
-**Du lundi 4 au dimanche 10 juin 2018 le CETL organisera son stage habituel de sur-titrage au Collège des traducteurs littéraires de Seneffe, Château de Seneffe, rue Lucien Plasman, 7180 Seneffe.**
+**Du lundi 4 au dimanche 10 juin 2018 le CETL a organisé son stage habituel de sur-titrage au Collège des traducteurs littéraires de Seneffe, Château de Seneffe, rue Lucien Plasman, 7180 Seneffe.**
 
-**Le Stage sera animé par Michel Bataillon et Pierre-Yves Diez (cf. présentation détaillée ci-dessous).**
+**Le Stage étais animé par Michel Bataillon et Pierre-Yves Diez (cf. présentation détaillée ci-dessous).**
 
 **Un peu de théorie et beaucoup de pratique (régie) pour maîtriser les techniques de sur-titrage au théâtre et à l’opéra.**
 

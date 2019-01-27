@@ -22,7 +22,7 @@ Au bout d’une «&nbsp;année&nbsp;», vous devrez passer un examen pour accéd
 
 Envoyer un C.V. à jour permettant de vérifier si vous avez le profil requis (diplôme universitaire en «&nbsp;Philosophie et lettres&nbsp;» - langues, linguistique, art, histoire, journalisme, sociologie, sciences humaines en général). Si vous n’avez pas les titres requis, vous devrez vous soumettre à un test d’aptitude.
 
-Pour vous inscrire ensuite&nbsp;: renvoyer le B.I. complété et verser le montant des droits à régler, soit **2 700 euros (par année)**. Le B.I. est à demander directement à la directrice via l’adresse ctls@skynet.be.
+Pour vous inscrire ensuite&nbsp;: renvoyer le B.I. complété et verser le montant des droits à régler. Le B.I. est à demander directement à la directrice via l’adresse ctls@skynet.be.
 
 Le nom mentionné sur le virement doit correspondre à celui indiqué sur le bulletin d’inscription. Mentionner également la section choisie et le niveau (premier ou second).
 

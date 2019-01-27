@@ -14,7 +14,7 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 ### 2. ANGLAIS — Français
 
-— Véronique **Beghain** – France **Camus Pichon** – Jacqueline **Carnaud** – Antoine **Cazé** – **Claro** – Yves **Coleman** – Anne **Damour** – Cécile **Déniard** – Jean–Michel **Déprats** – William **Desmond** (décédé) – Françoise **Sorbier\*— – Isabelle **Famchon** – Pierre **Furlan** – Bruno **Gaurier** – Anna **Gibson** – Jean **Guiloineau** – Bernard **Hoepffner** (décédé) – Dominique **Hollier** – Mathieu **Jacquet** – Laurence **Kiefé** – Jacqueline **Lahana** – Guy **Leclercq** – Daniel **Lemoine** – Séverine **Magoi** – Jacques **Mailhos**– Claire **Malroux** — Diane **Meur** – Frédéric **Monneyron** – Christine **Pagnoulle** – Marie-Claire **Pasquier** – Robert **Pepin** – Marie-Odile **Probst** – Anne **Proenza** – Christine **Raguet** – Jean-Pierre **Richard** – Anne-Marie **Smith di Biasio** – Dominique **Taffin Jouhaud** – Rose-Marie **Vassallo\*\*
+— Véronique **Beghain** – France **Camus Pichon** – Jacqueline **Carnaud** – Antoine **Cazé** – **Claro** – Anne **Cohen-Beucher** — Yves **Coleman** – Anne **Damour** – Cécile **Déniard** – Jean–Michel **Déprats** – William **Desmond** (décédé) – Françoise **Sorbier** – Isabelle **Famchon** – Pierre **Furlan** – Bruno **Gaurier** – Anna **Gibson** – Jean **Guiloineau** – Bernard **Hoepffner** (décédé) – Dominique **Hollier** – Mathieu **Jacquet** – Laurence **Kiefé** – Jacqueline **Lahana** – Guy **Leclercq** – Daniel **Lemoine** – Séverine **Magoi** – Jacques **Mailhos**– Claire **Malroux** — Diane **Meur** – Frédéric **Monneyron** – Christine **Pagnoulle** – Marie-Claire **Pasquier** – Robert **Pepin** – Marie-Odile **Probst** – Anne **Proenza** – Christine **Raguet** – Jean-Pierre **Richard** – Anne-Marie **Smith di Biasio** – Dominique **Taffin Jouhaud** – Rose-Marie \*\*Vassallo\*\*
 
 ### 3. ALLEMAND — Français
 
@@ -22,7 +22,7 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 ### 4. ESPAGNOL — Français
 
-– Philippe **Bataillon** – Albert **Bensoussan** – Claude **Bleton** – André **Camp** — Alexandra **Carrasco** – Christine **Defoin** – Claude **de Frayssinet** –  André **Gabastou** – François **Gaudry** – Liliane **Hasson** – Bertille **Hausberg** (décédée) – Denise **Laroutis** – Claude **Murcia** – Edmond **Raillard** – Jean-Marie **Saint-Lu** – Aline **Schulman** – Georges **Tyras** — Marta **Martinez Valls**
+– Philippe **Bataillon** – Albert **Bensoussan** – Claude **Bleton** – André **Camp** — Alexandra **Carrasco** – Anne **Cohen-Beucher** — Christine **Defoin** – Claude **de Frayssinet** –  André **Gabastou** – François **Gaudry** – Liliane **Hasson** – Bertille **Hausberg** (décédée) – Denise **Laroutis** – Claude **Murcia** – Edmond **Raillard** – Jean-Marie **Saint-Lu** – Aline **Schulman** – Georges **Tyras** — Marta **Martinez Valls**
 
 ### 5. ITALIEN — Français
 

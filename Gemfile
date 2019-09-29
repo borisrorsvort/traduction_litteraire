@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'middleman', '~> 4.2'
 gem 'middleman-autoprefixer', '~> 2.7'
-gem "bootstrap-sass", require: false
+gem "bootstrap-sass", ">= 3.4.1", require: false
 gem "middleman-livereload"
 gem 'middleman-search_engine_sitemap'
 gem 'middleman-gh_pages'

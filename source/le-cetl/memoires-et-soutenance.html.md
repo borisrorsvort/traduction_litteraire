@@ -190,4 +190,16 @@ Note obtenue&nbsp;: **95/100**
 
 ---
 
+**Azra Pita Parente**
+
+Oscar et la dame rose – Monsieur Ibrahim et les fleurs du Coran (Eric Emmanuel Shmitt)
+
+Directeurs de mémoire : Aleksander Grujicic et Radivoje Konstantinovic
+
+Soutenance par visioconférence : janvier 2019
+
+Note obtenue&nbsp;: **95/100** avec les félicitations du jury
+
+---
+
 [Voir la liste des soutenances à venir](/events)

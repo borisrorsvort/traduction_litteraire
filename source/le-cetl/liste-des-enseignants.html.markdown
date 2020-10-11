@@ -14,15 +14,15 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 ### 2. ANGLAIS — Français
 
-— Véronique **Beghain** – France **Camus Pichon** – Jacqueline **Carnaud** – Antoine **Cazé** – **Claro** – Anne **Cohen-Beucher** — Yves **Coleman** – Anne **Damour** – Cécile **Déniard** – Jean–Michel **Déprats** – William **Desmond** (décédé) – Françoise **Sorbier** – Isabelle **Famchon** – Pierre **Furlan** – Bruno **Gaurier** – Anna **Gibson** – Jean **Guiloineau** – Bernard **Hoepffner** (décédé) – Dominique **Hollier** – Mathieu **Jacquet** – Laurence **Kiefé** – Jacqueline **Lahana** – Guy **Leclercq** – Daniel **Lemoine** – Séverine **Magoi** – Jacques **Mailhos**– Claire **Malroux** — Diane **Meur** – Frédéric **Monneyron** – Christine **Pagnoulle** – Marie-Claire **Pasquier** – Robert **Pepin** – Marie-Odile **Probst** – Anne **Proenza** – Christine **Raguet** – Jean-Pierre **Richard** – Anne-Marie **Smith di Biasio** – Dominique **Taffin Jouhaud** – Rose-Marie \*\*Vassallo\*\*
+— Véronique **Beghain** – France **Camus Pichon** – Jacqueline **Carnaud** – Antoine **Cazé** – **Claro** – Anne **Cohen-Beucher** — Yves **Coleman** – Anne **Damour** – Cécile **Déniard** – Jean–Michel **Déprats** – William **Desmond** (décédé) – Françoise **Sorbier** – Isabelle **Famchon** – Pierre **Furlan** – Bruno **Gaurier** – Anna **Gibson** – Jean **Guiloineau** – Bernard **Hoepffner** (décédé) – Dominique **Hollier** – Mathieu **Jacquet** – Laurence **Kiefé** – Jacqueline **Lahana** – Guy **Leclercq** – Daniel **Lemoine** – Séverine **Magoi** – Jacques **Mailhos**– Claire **Malroux** — Diane **Meur** – Frédéric **Monneyron** – Christine **Pagnoulle** – Marie-Claire **Pasquier** – Robert **Pepin** – Marie-Odile **Probst** – Anne **Proenza** – Christine **Raguet** – Jean-Pierre **Richard** – Anne-Marie **Smith di Biasio** – Dominique **Taffin Jouhaud** – Rose-Marie **Vassallo**
 
 ### 3. ALLEMAND — Français
 
-– Marie-Claude **Auger** – Bernard **Banoun** – Jean-Louis **Besson** – Marc **Buhot de Launay** – Claire **de Oliveira** – Jean-Claude **Colbus** – Claire **de Oliveira** – Pierre **Deshusses** – Barbara **Fontaine** – Rose-Marie **François** – Georges Arthur **Goldschmidt** – Brigitte **Hébert** (décédée) – Philippe **Ivernel** – Jean-René **Ladmiral** – Olivier **Mannoni** – Jean-Yves **Masson** – François **Mathieu** – Josie **Mély** – Denis **Messier** – Laurent **Muhleisen** – Sibylle **Muller** – Heinz **Schwarzinger** – Dominique **Tassel** – Nicole **Taubes** – Maurice **Taszman** – Brigitte **Vergne-Cain** – Catherine **Weinzorn** – Françoise **Wuilmart**
+– Marie-Claude **Auger** – Bernard **Banoun** – Jean-Louis **Besson** – Marc **Buhot de Launay** — Jean-Claude **Colbus** – Claire **de Oliveira** –  Cécile **DENIARD** — Pierre **Deshusses** – Barbara **Fontaine** – Rose-Marie **François** – Georges Arthur **Goldschmidt** – Brigitte **Hébert** (décédée) – Philippe **Ivernel** —  Josée **KAMOUN** – Jean-René **Ladmiral** – Olivier **Mannoni** – Jean-Yves **Masson** – François **Mathieu** – Josie **Mély** – Denis **Messier** – Laurent **Muhleisen** – Sibylle **Muller** – Heinz **Schwarzinger** – Dominique **Tassel** – Nicole **Taubes** – Maurice **Taszman** – Brigitte **Vergne-Cain** – Catherine **Weinzorn** – Françoise **Wuilmart** 
 
 ### 4. ESPAGNOL — Français
 
-– Philippe **Bataillon** – Albert **Bensoussan** – Claude **Bleton** – André **Camp** — Alexandra **Carrasco** – Anne **Cohen-Beucher** — Christine **Defoin** – Claude **de Frayssinet** –  André **Gabastou** – François **Gaudry** – Liliane **Hasson** – Bertille **Hausberg** (décédée) – Denise **Laroutis** – Claude **Murcia** – Edmond **Raillard** – Jean-Marie **Saint-Lu** – Aline **Schulman** – Georges **Tyras** — Marta **Martinez Valls**
+– Philippe **Bataillon** – Albert **Bensoussan** – Claude **Bleton** – André **Camp** — Alexandra **Carrasco** – Anne **Cohen-Beucher** — Christine **Defoin** – Claude **de Frayssinet** – André **Gabastou** – François **Gaudry** – Liliane **Hasson** – Bertille **Hausberg** (décédée) – Denise **Laroutis** – Claude **Murcia** — Alix **Parodi** — Anne **Proenza** — Amanda **Py** – Edmond **Raillard** – Jean-Marie **Saint-Lu** – Aline **Schulman** – Georges **Tyras** — Marta **Martinez Valls**
 
 ### 5. ITALIEN — Français
 
@@ -30,7 +30,7 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 ### 6. PORTUGAIS — Français
 
-– Carlos **Batista** – José **da Silva Terra** – Anne **de Faria** – Elodie **Dupeau** – Michèle **Giudicelli** – Cécile **Lombard** – Marie-Hélène **Piwnick** – Annick **Moreau** – Patrick **Quillier** – Anne-Marie **Quint** – Isabel **Vale Ferreira** – Marie-Claire **Vromans**
+– Carlos **Batista** – José **da Silva Terra** – Anne **de Faria** – Elodie **Dupeau** – Michèle **Giudicelli** – Cécile **Lombard** – Marie-Hélène **Piwnick** – Annick **Moreau** – Patrick **Quillier** – Anne-Marie **Quint** – Isabel **Vale Ferreira** – Marie-Claire **Vromans**
 
 ### 7. RUSSE — Français
 
@@ -52,7 +52,7 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 ### 2. FRANÇAIS — Anglais
 
-Saskia Brown — Roland Glasser – Sophie Lewis — Ros Schwartz – Jonathan Kaplanski – Donald Nicholson — Trista Selous — Sandra Smith — Shelley Tepperman –
+Saskia **Brown** — Roland **Glasser** – Sophie **Lewis** — Ros **Schwartz** – Jonathan **Kaplanski** – Donald **Nicholson** — Trista **Selous** — Sandra **Smith** — Shelley **Tepperman** –
 
 ### 3. FRANÇAIS — Allemand
 
@@ -60,11 +60,11 @@ Saskia Brown — Roland Glasser – Sophie Lewis — Ros Schwartz – Jonathan K
 
 ### 4. FRANÇAIS — Espagnol
 
-– Luis **Araujo** – Susana **Cantero** — Juan Bravo **Castillo** – Rafael **Conte** – Ariel **Dilon** — Andrés **Ehrenhaus** – Malika **Embarek** – Julia **Escobar** – María–Teresa **Gallego Urrutia** – Gabriel **Hormaechea** – Clara **Janés** – Ariel **Lierberman** – Elisa **Luengo** – José Miguel **Marinas Herreras** – Juan **Victorio Martínez** – Luis **Martínez de Merlo** – Antonio **Martínez Sarrión** – Alicia **Martorell** – Lourdes **Ortiz** – Lourdes **Pérez** – Javier **del Prado Biezma** – Francisca **Romeral** — Mónica **Rubio** – Juana **Salabert** – Hermes **Salceda** – Manuel **Serrat Crespo** (décédé) – Maite **Solana** – Lluis Maria **Todo** – Marta Martinez **Valls** — Alain **Verjat** – Jaime **Zulaika**
+– Luis **Araujo** – Susana **Cantero** — Juan Bravo **Castillo** – Rafael **Conte** – Ariel **Dilon** — Andrés **Ehrenhaus** – Malika **Embarek** – Julia **Escobar** – María–Teresa **Gallego Urrutia** – Gabriel **Hormaechea** – Clara **Janés** – Ariel **Lierberman** – Elisa **Luengo** – José Miguel **Marinas Herreras** – Juan **Victorio Martínez** – Luis **Martínez de Merlo** – Antonio **Martínez Sarrión** – Alicia **Martorell** – Lourdes **Ortiz** – Lourdes **Pérez** – Javier **del Prado Biezma** – Francisca **Romeral** — Mónica **Rubio** – Juana **Salabert** – Hermes **Salceda** – Manuel **Serrat Crespo** (décédé) – Maite **Solana** – Lluis Maria **Todo** – Marta Martinez **Valls** — Alain **Verjat** – Jaime **Zulaika**
 
 ### 5. FRANÇAIS - Italien
 
-— Vincenzo **Barca** – Elisa **Comito** — Chiara **Elefante** – Cinzia **Poli** – Chiara **Manfrinato** – Chiara **Montini** – Francesca **Novajra** – Daniele **Petruccioli** – Guia **Boni**
+— Vincenzo **Barca** – Elisa **Comito** — Chiara **Elefante** – Cinzia **Poli** – Chiara **Manfrinato** – Chiara **Montini** – Francesca **Novajra** – Daniele **Petruccioli** — Mirella **Piacentini** – Guia **Boni**
 
 ### 6. ANGLAIS — Espagnol
 
@@ -72,7 +72,7 @@ Saskia Brown — Roland Glasser – Sophie Lewis — Ros Schwartz – Jonathan K
 
 ### 7. FRANÇAIS — Portugais
 
-– Jorge **Bastos Cruz** – Odette **J. Collas** – Maria do Carmo **Figueria** – Maria José **Figueiredo** –  Luisa **Costa Gomez** – Guilhermina **Jorge** – Maria Eduarda **Keating** – Ana Cristina **Leonardo** – Zé **Lima** – Francisco José **Magalhaes** (décédé) – Marcelo Jacques **de Moraes** – Robson **de Oliveira** – Carolina **Selvatici** – Christine **Zurbach**
+– Jorge **Bastos Cruz** – Odette **J. Collas** – Maria do Carmo **Figueria** – Maria José **Figueiredo** – Luisa **Costa Gomez** – Guilhermina **Jorge** – Maria Eduarda **Keating** – Ana Cristina **Leonardo** – Zé **Lima** – Francisco José **Magalhaes** (décédé) – Marcelo Jacques **de Moraes** – Robson **de Oliveira** – Carolina **Selvatici** – Christine **Zurbach**
 
 ### 8. FRANÇAIS — Russe
 
@@ -80,7 +80,7 @@ Saskia Brown — Roland Glasser – Sophie Lewis — Ros Schwartz – Jonathan K
 
 ### 9. FRANÇAIS — Arabe
 
-— Hassan **Bahraoui** — Nora **Elalaoui** — Driss **El Baouchari** – Jalal **El Hakmaoui** – Malika **Maataoui** – Mohammed **Jadir**
+— Hassan **Bahraoui** — Nora **Elalaoui** — Driss **El Baouchari** – Jalal **El Hakmaoui** – Malika **Maataoui** – Mohammed **Jadir**
 
 ## III. Ateliers d’écriture
 

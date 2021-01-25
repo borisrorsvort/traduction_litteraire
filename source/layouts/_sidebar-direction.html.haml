@@ -1,0 +1,9 @@
+.col-sm-12.col-md-3.col-lg-3.hidden-xs.sidebar.sidebar-left
+  %ol#menu-submenu.menu
+    %li{:class => nav_active("/le-cetl/direction/")}
+      = link_to 'Direction', '/le-cetl/direction/'
+    %li{:class => nav_active("/le-cetl/direction/publications")}
+      = link_to 'Publications', '/le-cetl/direction/publications'
+    %li{:class => nav_active("/le-cetl/direction/interviews")}
+      = link_to 'Interviews', '/le-cetl/direction/interviews'
+    

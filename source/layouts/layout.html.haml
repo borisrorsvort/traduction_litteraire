@@ -4,7 +4,7 @@
   = partial "layouts/header"
   .wrap.container{:role => "document"}
     .content.row
-      = partial "layouts/sidebar-left"
+      = partial "layouts/sidebar-#{current_page.data.sidebar || 'left'}"
       .main.col-sm-12.col-md-6.col-lg-6
         %h1
           = current_page.data.title

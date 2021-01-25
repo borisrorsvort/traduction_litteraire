@@ -1,6 +1,7 @@
 ---
 title: Direction
 illu: "wuilmart"
+sidebar: "direction"
 ---
 
 ## FRANÇOISE WUILMART

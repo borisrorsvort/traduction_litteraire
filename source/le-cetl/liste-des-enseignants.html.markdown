@@ -14,11 +14,11 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 ### 2. ANGLAIS — Français
 
-— Véronique **Beghain** – France **Camus Pichon** – Jacqueline **Carnaud** – Antoine **Cazé** – **Claro** – Anne **Cohen-Beucher** — Yves **Coleman** – Anne **Damour** – Cécile **Déniard** – Jean–Michel **Déprats** – William **Desmond** (décédé) – Françoise **Sorbier** – Isabelle **Famchon** – Pierre **Furlan** – Bruno **Gaurier** – Anna **Gibson** – Jean **Guiloineau** – Bernard **Hoepffner** (décédé) – Dominique **Hollier** – Mathieu **Jacquet** – Laurence **Kiefé** – Jacqueline **Lahana** – Guy **Leclercq** – Daniel **Lemoine** – Séverine **Magoi** – Jacques **Mailhos**– Claire **Malroux** — Diane **Meur** – Frédéric **Monneyron** – Christine **Pagnoulle** – Marie-Claire **Pasquier** – Robert **Pepin** – Marie-Odile **Probst** – Anne **Proenza** – Christine **Raguet** – Jean-Pierre **Richard** – Anne-Marie **Smith di Biasio** – Dominique **Taffin Jouhaud** – Rose-Marie **Vassallo**
+— Véronique **Beghain** – France **Camus Pichon** – Jacqueline **Carnaud** – Antoine **Cazé** – **Claro** – Anne **Cohen-Beucher** — Yves **Coleman** – Anne **Damour** – Cécile **Déniard** – Jean–Michel **Déprats** – William **Desmond** (décédé) – Françoise **Sorbier** – Isabelle **Famchon** – Pierre **Furlan** – Bruno **Gaurier** – Anna **Gibson** – Jean **Guiloineau** – Bernard **Hoepffner** (décédé) – Dominique **Hollier** – Mathieu **Jacquet** – Josée **KAMOUN** - Laurence **Kiefé** – Jacqueline **Lahana** – Guy **Leclercq** – Daniel **Lemoine** – Séverine **Magoi** – Jacques **Mailhos**– Claire **Malroux** — Diane **Meur** – Frédéric **Monneyron** – Christine **Pagnoulle** – Marie-Claire **Pasquier** – Robert **Pepin** – Marie-Odile **Probst** – Anne **Proenza** – Christine **Raguet** – Jean-Pierre **Richard** – Anne-Marie **Smith di Biasio** – Dominique **Taffin Jouhaud** – Rose-Marie **Vassallo**
 
 ### 3. ALLEMAND — Français
 
-– Marie-Claude **Auger** – Bernard **Banoun** – Jean-Louis **Besson** – Marc **Buhot de Launay** — Jean-Claude **Colbus** – Claire **de Oliveira** –  Cécile **DENIARD** — Pierre **Deshusses** – Barbara **Fontaine** – Rose-Marie **François** – Georges Arthur **Goldschmidt** – Brigitte **Hébert** (décédée) – Philippe **Ivernel** —  Josée **KAMOUN** – Jean-René **Ladmiral** – Olivier **Mannoni** – Jean-Yves **Masson** – François **Mathieu** – Josie **Mély** – Denis **Messier** – Laurent **Muhleisen** – Sibylle **Muller** – Heinz **Schwarzinger** – Dominique **Tassel** – Nicole **Taubes** – Maurice **Taszman** – Brigitte **Vergne-Cain** – Catherine **Weinzorn** – Françoise **Wuilmart** 
+– Marie-Claude **Auger** – Bernard **Banoun** – Jean-Louis **Besson** – Marc **Buhot de Launay** — Jean-Claude **Colbus** – Claire **de Oliveira** – Pierre **Deshusses** – Barbara **Fontaine** – Rose-Marie **François** – Georges Arthur **Goldschmidt** – Brigitte **Hébert** (décédée) – Philippe **Ivernel** —  Josée **KAMOUN** – Jean-René **Ladmiral** – Olivier **Mannoni** – Jean-Yves **Masson** – François **Mathieu** – Josie **Mély** – Denis **Messier** – Laurent **Muhleisen** – Sibylle **Muller** – Heinz **Schwarzinger** – Dominique **Tassel** – Nicole **Taubes** – Maurice **Taszman** – Brigitte **Vergne-Cain** – Catherine **Weinzorn** – Françoise **Wuilmart** 
 
 ### 4. ESPAGNOL — Français
 
@@ -38,7 +38,7 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 ### 8. SUÉDOIS — Français
 
-— Elena **Balzamo** — Anna **Gibson** – Esther **Sermage** – Jean-Baptiste **Coursaud** – Ana **Karila**
+— Elena **Balzamo** — Anna **Gibson** – Catherine **RENAUD** — Esther **Sermage** – Jean-Baptiste **Coursaud** – Ana **Karila**
 
 ### 9. ARABE — Français
 

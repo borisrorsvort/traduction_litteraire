@@ -7,10 +7,6 @@ helpers do
   # In case you require helpers within `config.rb`, they can be added here.
 end
 
-activate :autoprefixer do |prefix|
-  prefix.browsers = "last 2 versions"
-end
-
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false

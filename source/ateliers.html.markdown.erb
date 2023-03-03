@@ -5,12 +5,12 @@ title: Ateliers
 <hr>
 <div class="events">
 <% if data.workshops %>
-<% data.workshops.each do |workshop| %>
-<article class="event" data-start-date="<%= workshop.start_date %>" data-end-date="<%= workshop.end_date %>">
-<h4 class='muted'><%= workshop.date %></h4>
-<h3><%= workshop.title %></h3>
-<%= workshop.body %>
-</article>
-<% end %>
+  <% data.workshops.each do |workshop| %>
+    <article class="event" data-start-date="<%= workshop.start_date %>" data-end-date="<%= workshop.end_date %>">
+      <h4 class='muted'><%= workshop.date %></h4>
+      <h3><%= workshop.title %></h3>
+      <%= workshop.body %>
+    </article>
+  <% end %>
 <% end %>
 </div>

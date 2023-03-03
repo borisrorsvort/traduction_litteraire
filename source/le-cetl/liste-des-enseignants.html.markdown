@@ -24,23 +24,32 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 – Philippe **Bataillon** – Albert **Bensoussan** – Claude **Bleton** – André **Camp** — Alexandra **Carrasco** – Anne **Cohen-Beucher** — Christine **Defoin** – Claude **de Frayssinet** – André **Gabastou** – François **Gaudry** – Liliane **Hasson** – Bertille **Hausberg** (décédée) – Denise **Laroutis** – Claude **Murcia** — Alix **Parodi** — Anne **Proenza** — Amanda **Py** – Edmond **Raillard** – Jean-Marie **Saint-Lu** – Aline **Schulman** – Georges **Tyras** — Marta **Martinez Valls**
 
-### 5. ITALIEN — Français
+
+### 5. HÉBREU – Français
+
+— Ziva **Avran** – Jacqueline **Carnaud** – Laurence **Cendrowic** – Rosie **Pinah-Delpuech** 
+
+### 6. JAPONAIS – Français
+
+— Corinne **Atlan** – Patrick **Honnoré** – Jacques **Lévy**
+
+### 6. ITALIEN — Français
 
 – Charles **Alunni** – Monique **Baccelli** – François **Bouchard** – Myriem **Bouzaher** – Françoise **Brun** – René **de Ceccaty** – Maurice **Darmon** – Philippe **di Meo** – Karine **Espinosa Wackers** – Mario **Fusco** (décédé) – Joël **Gayraud** – Ginette **Herry**– Christophe **Mileschi** – Chantal **Moiroud** – Michel **Orcel** – Jean-Baptiste **Para** – Jean-Pierre **Pisetta** – Alain **Pons** – Marguerite **Pozzoli** – Marilène **Raiola** – Vincent **Raynaud** – Dominique **Vittoz**
 
-### 6. PORTUGAIS — Français
+### 7. PORTUGAIS — Français
 
 – Carlos **Batista** – José **da Silva Terra** – Anne **de Faria** – Elodie **Dupeau** – Michèle **Giudicelli** – Cécile **Lombard** – Marie-Hélène **Piwnick** – Annick **Moreau** – Patrick **Quillier** – Anne-Marie **Quint** – Isabel **Vale Ferreira** – Marie-Claire **Vromans**
 
-### 7. RUSSE — Français
+### 8. RUSSE — Français
 
 – Michel **Aucouturier** – Sophie **Benech** – Jacques **Catteau** (décédé) – Anne **Coldefy-Faucard** – Anne **Delizée** – Hélène **Henry** – Luba **Jurgenson** — Bernard **Kreise** – Paul **Lequesne** – Jacques **Michaut-Paterno** – Jean–Luc **Moreau** – Véronique **Patte** — Catherine **Perrel** – Anne-Marie **Tatsis-Botton**
 
-### 8. SUÉDOIS — Français
+### 9. SUÉDOIS — Français
 
 — Elena **Balzamo** — Anna **Gibson** – Catherine **RENAUD** — Esther **Sermage** – Jean-Baptiste **Coursaud** – Ana **Karila**
 
-### 9. ARABE — Français
+### 10. ARABE — Français
 
 — Richard **Jacquemond** — Xavier **Luffin** — Mohammed **Jadir** – Jalal **El Hakmaoui** – Nora **Elalaoui** – Nathalie **Bontemps** – Nia **Lofti**
 

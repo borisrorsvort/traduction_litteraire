@@ -10,11 +10,11 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 ### 1. NÉERLANDAIS — Français
 
-– Bertrand **Abraham** – Anne-Marie **de Both-Diez** – Mireille **Cohendy** – Anita **Concas** – Jacques **De Decker** – Frans **De Haes** – Anne-Marie **Eskenazy** – Charles **Franken** – Patrick **Grilli** – Xavier **Hanotte** – Marie **Hooghe** – José **Lodewick** – Danièle **Losman** – Denise-Monique **Nagielkopf** – Philippe **Noble** – Isabelle **Rosselin** – Emmanuelle **Sandron** – Nadine **Stabile** – Alain **van Crugten**
+– Bertrand **Abraham** – Anne-Marie **de Both-Diez** – Mireille **Cohendy** – Anita **Concas** – Jacques **De Decker** – Frans **De Haes** – Anne-Marie **Eskenazy** – Charles **Franken** – Patrick **Grilli** – Xavier **Hanotte** – Marie **Hooghe** – José **Lodewick** – Danièle **Losman** – Denise-Monique **Nagielkopf** – Philippe **Noble** – Noël **Michel** — Isabelle **Rosselin** – Emmanuelle **Sandron** – Nadine **Stabile** – Alain **van Crugten**
 
 ### 2. ANGLAIS — Français
 
-— Véronique **Beghain** – France **Camus Pichon** – Jacqueline **Carnaud** – Antoine **Cazé** – **Claro** – Anne **Cohen-Beucher** — Yves **Coleman** – Anne **Damour** – Cécile **Déniard** – Jean–Michel **Déprats** – William **Desmond** (décédé) – Françoise **Sorbier** – Isabelle **Famchon** – Pierre **Furlan** – Bruno **Gaurier** – Anna **Gibson** – Jean **Guiloineau** – Bernard **Hoepffner** (décédé) – Dominique **Hollier** – Mathieu **Jacquet** – Josée **KAMOUN** - Laurence **Kiefé** – Jacqueline **Lahana** – Guy **Leclercq** – Daniel **Lemoine** – Séverine **Magoi** – Jacques **Mailhos**– Claire **Malroux** — Diane **Meur** – Frédéric **Monneyron** – Christine **Pagnoulle** – Marie-Claire **Pasquier** – Robert **Pepin** – Marie-Odile **Probst** – Anne **Proenza** – Christine **Raguet** – Jean-Pierre **Richard** – Anne-Marie **Smith di Biasio** – Dominique **Taffin Jouhaud** – Rose-Marie **Vassallo**
+— Sophie **Aslanides** — Véronique **Beghain** – France **Camus Pichon** – Jacqueline **Carnaud** – Antoine **Cazé** – **Claro** – Anne **Cohen-Beucher** — Yves **Coleman** – Anne **Damour** – Cécile **Déniard** – Jean–Michel **Déprats** – William **Desmond** (décédé) – Françoise **Sorbier** – Isabelle **Famchon** – Pierre **Furlan** – Bruno **Gaurier** – Anna **Gibson** – Jean **Guiloineau** – Bernard **Hoepffner** (décédé) – Dominique **Hollier** – Mathieu **Jacquet** – Josée **KAMOUN** - Laurence **Kiefé** – Jacqueline **Lahana** – Guy **Leclercq** – Daniel **Lemoine** – Séverine **Magoi** – Jacques **Mailhos**– Claire **Malroux** — Diane **Meur** – Frédéric **Monneyron** – Christine **Pagnoulle** – Marie-Claire **Pasquier** – Robert **Pepin** – Marie-Odile **Probst** – Anne **Proenza** – Christine **Raguet** – Jean-Pierre **Richard** – Anne-Marie **Smith di Biasio** – Dominique **Taffin Jouhaud** – Rose-Marie **Vassallo**
 
 ### 3. ALLEMAND — Français
 
@@ -22,7 +22,7 @@ Toutes les informations concernant la plupart des traducteurs de cette liste, no
 
 ### 4. ESPAGNOL — Français
 
-– Philippe **Bataillon** – Albert **Bensoussan** – Claude **Bleton** – André **Camp** — Alexandra **Carrasco** – Anne **Cohen-Beucher** — Christine **Defoin** – Claude **de Frayssinet** – André **Gabastou** – François **Gaudry** – Liliane **Hasson** – Bertille **Hausberg** (décédée) – Denise **Laroutis** – Claude **Murcia** — Alix **Parodi** — Anne **Proenza** — Amanda **Py** – Edmond **Raillard** – Jean-Marie **Saint-Lu** – Aline **Schulman** – Georges **Tyras** — Marta **Martinez Valls**
+– Philippe **Bataillon** – Albert **Bensoussan** – Claude **Bleton** – André **Camp** — Alexandra **Carrasco** – Anne **Cohen-Beucher** — Christine **Defoin** – Claude **de Frayssinet** – André **Gabastou** – François **Gaudry** – Liliane **Hasson** – Bertille **Hausberg** (décédée) – Denise **Laroutis** – Claude **Murcia** — Alix **Parodi** — Anne **Proenza** — Amandine **Py** — Amanda **Py** – Edmond **Raillard** – Jean-Marie **Saint-Lu** – Aline **Schulman** – Georges **Tyras** — Marta **Martinez Valls**
 
 
 ### 5. HÉBREU – Français

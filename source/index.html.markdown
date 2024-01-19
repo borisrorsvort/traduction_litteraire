@@ -5,6 +5,14 @@
   meta_keywords:
 ---
 
+<div class="alert wishes">
+
+<h2 style="margin-top: 0;">🌟 Bonne année 2024 ! 🌟</h2>
+
+À tous les passionnés de mots et de cultures, nous vous souhaitons une année remplie de découvertes littéraires fascinantes et d'inspirations sans frontières. Que cette nouvelle année vous apporte joie, réussite et de merveilleux voyages à travers les pages des œuvres du monde entier. Continuons ensemble à célébrer la richesse de la littérature et le pouvoir des mots qui nous unissent.
+
+</div>
+
 ## La Formule CETL: unique pour les amateurs de traduction littéraire
 
 Le CETL est un centre de formation postuniversitaire axé en priorité sur la pratique de la traduction littéraire. Les points forts du cycle sont les exercices à distance confiés aux plus grands traducteurs littéraires actuels. Quelques cours d’encadrement plus théoriques portant sur les aspects pragmatiques du métier et des ateliers de stimulation à l’écriture en langue française viennent compléter la formation annuellement.

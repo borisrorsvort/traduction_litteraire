@@ -1,0 +1,13 @@
+.jumbo-background {
+  height: 200px;
+  background: #b0624e; }
+
+.wishes {
+  background: #b0624e;
+  color: white; }
+
+ul > li {
+  margin-bottom: 20px; }
+
+.navbar-nav li {
+  margin-bottom: 0; }

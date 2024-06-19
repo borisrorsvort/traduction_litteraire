@@ -126,7 +126,9 @@ L'objectif de cette séance est de permettre aux traducteurs de :
 
 **Josée Kamoun**
 
-_Samedi 25 mai (5 heures, de 11h à 13h et de 14h30 à 17h30)_
+Samedi 25 mai : Une première heure, de 11 à 12, pour déchiffrer-arpenter le texte, faire un tour de table pour relever les approches et les impressions et puis trois heures pour le traduire, de 13 à 16 heures.
+
+Fais de participation : 50 euros (numéro de compte ci-dessous) Les textes à préparer seront envoyés dès réceptin des droits d’inscription.
 
 ### Allemand, espagnol, italien
 

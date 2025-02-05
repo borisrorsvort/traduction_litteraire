@@ -3,13 +3,74 @@ title: Ateliers en visioconférence
 illu: "none"
 ---
 
-## Fonctionnement des ateliers à distance :
+## Fonctionnement des ateliers à distance :
 
-**Ils sont organisés régulièrement le samedi, le nombre d’heures est fonction du sujet abordé.
-Ils sont payants, le tarif va de 30 à 70 euros selon le nombre d’heures.
-L’outil de communication utilisé est Zoom, le lien est envoyé aux inscrits la veille de l’atelier.
-Pour tout autre renseignement, veuillez vous adresser à Françoise Wuilmart, directrice du CETL :
-ctls@skynet.be ou 00 32 (0) 496 25 01 52**
+**Tous les droits d’inscription seront à verser sur le compte indiqué ci-dessous (au plus tard à l’avant-veille de la séance). Veuillez indiquer votre nom et l’atelier ou les ateliers sélectionnés.**
+
+- **Banque** : Fortis Bank – BNP Parisbas, Agence Dilbeek (Verheydenstraat, 22 – 1700 Dilbeek, Belgique)
+- **IBAN** : BE44001396319545
+- **BIC** : GEBABEB
+
+---
+
+## Ateliers et séminaires de traduction littéraire, premier semestre 2025
+
+### Exercices français préparant à une traduction plus juste et plus précise d’un texte français
+
+**Michel Volkovitch**
+
+_Samedi 8 février (4 heures : de 10h30 à 12h30 et de 13h30 à 15h30)_
+
+Le travail se fera sur un mode ludique des plus productifs.
+
+**Tarif** : 40 euros
+
+---
+
+### Le droit d’auteur, le contrat de traduction
+
+**Jonathan Seror**
+
+_Vendredi 14 février (2 heures : de 17h à 19h)_
+
+Quelle confiance accorder à ce jour à certains éditeurs ? De quoi devons-nous nous méfier ? Qu’en est-il de la rémunération équitable depuis l’intrusion de l’IA dans le métier de traducteur littéraire ?
+
+**Tarif** : 25 euros
+
+---
+
+### Heurs et malheurs du traducteur littéraire & Comment percer dans l’édition & Comment rédiger une fiche de lecture
+
+**Olivier Mannoni**
+
+_Samedi 22 février (6 heures : de 10h30 à 13h30 et de 14h30 à 17h30)_
+
+**Tarif** : 50 euros
+
+---
+
+### Atelier de traduction de l’anglais au français
+
+**Véronique Beghain**
+
+_Samedi 22 mars (4 heures : de 10h à 12h et de 13h à 15h)_
+
+Cet atelier est accessible aussi aux étudiants qui n’ont pas l’anglais comme langue source. L’enseignement comportera des volets théoriques valables pour toutes les combinaisons linguistiques. D’autres combinaisons linguistiques feront l’objet d’ateliers ultérieurement, sous réserve d’un nombre suffisant de candidats.
+
+**Tarif** : 50 euros
+
+---
+
+## Autres ateliers à venir
+
+**D’autres ateliers seront organisés à partir de mars. Toute proposition de sujet sera la bienvenue.**
+
+Pour tout renseignement, veuillez contacter :
+**Françoise Wuilmart, directrice du CETL**
+📞 00 32 (0) 496 25 01 52
+📧 ctls@skynet.be
+
+---
 
 ## Séminaires et ateliers de traduction littéraire, premier semestre 2024
 
@@ -133,30 +194,3 @@ Fais de participation : 50 euros (numéro de compte ci-dessous) Les textes à pr
 ### Allemand, espagnol, italien
 
 Les ateliers de traduction seront organisés en fonction de la demande.
-
----
-
-## Tarifs d’inscription
-
-Le montant sera viré sur le compte du CETL :
-
-- de la Fortis Bank – BNP Parisbas, Agence Dilbeek (Verheydenstraat, 22 – 1700 Dilbeek, Belgique)
-- Compte : 001-3963195-45
-- IBAN : BE44001396319545
-- BIC : GEBABEBB
-
-Mentionner impérativement l’atelier correspondant au montant versé et le nom du candidat
-
----
-
-1. Olivier Mannoni : 50 euros
-2. Pierre Cavillon :
-   - (1) paysage éditorial : 30 euros
-   - (2) chaîne du livre : 20 euros
-3. Jean-Claude Lebrun : 40 euros
-4. Peggy Rolland : 30 euros
-5. Michel Volkovitch : 40 euros
-6. Patrick Maurus : 35 euros
-7. Jonathan Seror : 25 euros
-8. Josée Kamoun : 50 euros
-9. Autres ateliers de traduction à organiser : 50 euros (les autres ateliers (allemand, italien, espagnol) seront organisés en fonction du nombre de demandes)

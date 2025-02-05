@@ -7,7 +7,7 @@
 
 <div class="alert wishes">
 
-<h2 style="margin-top: 0;">🌟 Bonne année 2024 ! 🌟</h2>
+<h2 style="margin-top: 0;">🌟 Bonne année 2025 ! 🌟</h2>
 
 À tous les passionnés de mots et de cultures, nous vous souhaitons une année remplie de découvertes littéraires fascinantes et d'inspirations sans frontières. Que cette nouvelle année vous apporte joie, réussite et de merveilleux voyages à travers les pages des œuvres du monde entier. Continuons ensemble à célébrer la richesse de la littérature et le pouvoir des mots qui nous unissent.
 

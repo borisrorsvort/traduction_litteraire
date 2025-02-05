@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+    <Boris Rorsvort> - Designer, Developer - <@borisrorsvort>
+
+/* THANKS */
+    <Centre Européen de Traduction Littéraire> -- <http://www.traduction-litteraire.com>
+    <Middleman Basis> -- <https://github.com/pzi/middleman-basis>
+
+/* SITE */
+    Last update: 2025-02-05
+    Language: French
+    Standards: CSS3, HTML5, JavaScript
+    Components: Middleman, Jquery, Boostrap
+    Software: Atom
